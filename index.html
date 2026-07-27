@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica VTC - 60 Preguntas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Práctica VTC</h1>
+            <p>Examen de 60 preguntas al azar (15 por módulo). Cada respuesta correcta vale 1 punto.</p>
+        </header>
+
+        <!-- Pantalla inicial -->
+        <div id="start-screen" class="screen active">
+            <div class="card">
+                <h2>¡Bienvenido!</h2>
+                <p>Se seleccionarán <strong>15 preguntas al azar de cada uno de los 4 módulos</strong>, para un total de 60 preguntas.</p>
+                <p class="time-info">⏱️ <strong>Tiempo disponible: 60 minutos</strong></p>
+                <div class="modulos-info">
+                    <div class="modulo-badge" style="border-left-color: #667eea;">📖 Lengua Castellana: 15 preguntas</div>
+                    <div class="modulo-badge" style="border-left-color: #28a745;">♿ Accesibilidad: 15 preguntas</div>
+                    <div class="modulo-badge" style="border-left-color: #fd7e14;">🗺️ Medio Físico: 15 preguntas</div>
+                    <div class="modulo-badge" style="border-left-color: #dc3545;">⚖️ Marco Jurídico: 15 preguntas</div>
+                </div>
+                <button id="start-btn" class="btn-primary">Comenzar Examen</button>
+            </div>
+        </div>
+
+        <!-- Pantalla del examen -->
+        <div id="quiz-screen" class="screen">
+            <!-- Temporizador -->
+            <div class="timer-container">
+                <div class="timer-label">⏱️ Tiempo restante:</div>
+                <div class="timer" id="timer">60:00</div>
+            </div>
+            
+            <div id="questions-container"></div>
+            <button id="submit-btn" class="btn-primary btn-large">Finalizar y Ver Nota</button>
+        </div>
+
+        <!-- Pantalla de resultados -->
+        <div id="results-screen" class="screen">
+            <div class="card results-card">
+                <h2>📊 Tu Resultado</h2>
+                <div class="score-display">
+                    <div class="score-number" id="final-score">0</div>
+                    <div class="score-total">/ 60</div>
+                </div>
+                <div class="percentage" id="percentage">0%</div>
+                <div id="message" class="message"></div>
+                <button id="retry-btn" class="btn-primary">Intentar de Nuevo</button>
+            </div>
+            <div id="review-container" class="review"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

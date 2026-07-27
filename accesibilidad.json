@@ -1,0 +1,563 @@
+[
+  {
+    "numero": 1,
+    "pregunta": "¿Qué debemos hacer ante una mordedura de animal?",
+    "respuestas": [
+      "a) Darle agua.",
+      "b) Lavar la herida con agua y jabón y cubrirla con un paño limpio.",
+      "c) Aplicar hielo directamente en la herida.",
+      "d) Darle un analgésico."
+    ],
+    "correcta": "b) Lavar la herida con agua y jabón y cubrirla con un paño limpio."
+  },
+  {
+    "numero": 2,
+    "pregunta": "¿Cuál es la primera acción a realizar si una mujer embarazada entra en trabajo de parto?",
+    "respuestas": [
+      "a) Darle agua.",
+      "b) Aplicar hielo en la frente.",
+      "c) Llamar a los servicios de emergencia y mantenerla cómoda.",
+      "d) Darle un analgésico."
+    ],
+    "correcta": "c) Llamar a los servicios de emergencia y mantenerla cómoda."
+  },
+  {
+    "numero": 3,
+    "pregunta": "¿Cuáles son las pautas de actuación en primeros auxilios?",
+    "respuestas": [
+      "a) Correr, gritar y pedir ayuda.",
+      "b) Proteger, alertar y socorrer.",
+      "c) Esperar, observar y actuar.",
+      "d) Llamar, esperar y actuar."
+    ],
+    "correcta": "b) Proteger, alertar y socorrer."
+  },
+  {
+    "numero": 4,
+    "pregunta": "¿Cuál es el número de emergencias en España?",
+    "respuestas": [
+      "a) 911",
+      "b) 999",
+      "c) 100",
+      "d) 112"
+    ],
+    "correcta": "d) 112"
+  },
+  {
+    "numero": 5,
+    "pregunta": "¿Qué debemos hacer si una persona pierde la conciencia?",
+    "respuestas": [
+      "a) Comprobar si respira y llamar a emergencias.",
+      "b) Darle agua.",
+      "c) Aplicar hielo en la frente.",
+      "d) Darle un analgésico."
+    ],
+    "correcta": "a) Comprobar si respira y llamar a emergencias."
+  },
+  {
+    "numero": 6,
+    "pregunta": "¿Cuándo se deben dar palmadas en la espalda a un niño?",
+    "respuestas": [
+      "a) Cuando tiene fiebre.",
+      "b) Cuando está llorando.",
+      "c) Cuando está dormido.",
+      "d) Cuando se está atragantando y no puede respirar."
+    ],
+    "correcta": "d) Cuando se está atragantando y no puede respirar."
+  },
+  {
+    "numero": 7,
+    "pregunta": "¿Qué debemos hacer si un pasajero presenta vértigo?",
+    "respuestas": [
+      "a) Darle agua.",
+      "b) Sentarlo y mantener su cabeza inmóvil.",
+      "c) Aplicar hielo en la frente.",
+      "d) Darle un analgésico."
+    ],
+    "correcta": "b) Sentarlo y mantener su cabeza inmóvil."
+  },
+  {
+    "numero": 8,
+    "pregunta": "En relación con la posición lateral de seguridad, ¿cuál de las siguientes afirmaciones es incorrecta?",
+    "respuestas": [
+      "a) La posición lateral de seguridad ayuda a mantener la vía aérea abierta.",
+      "b) No debemos colocar a un herido inconsciente en posición lateral de seguridad sin la presencia de un médico.",
+      "c) Debemos colocar a un herido inconsciente que respira en posición lateral de seguridad.",
+      "d) La posición lateral de seguridad previene la caída de la lengua hacia atrás."
+    ],
+    "correcta": "b) No debemos colocar a un herido inconsciente en posición lateral de seguridad sin la presencia de un médico."
+  },
+  {
+    "numero": 9,
+    "pregunta": "¿Qué debemos hacer si encontramos a un herido que no respira y no tiene pulso?",
+    "respuestas": [
+      "a) Esperar a que llegue la ambulancia sin hacer nada.",
+      "b) Colocar al herido en posición lateral de seguridad.",
+      "c) Iniciar maniobras de reanimación cardiopulmonar (RCP) inmediatamente.",
+      "d) Darle agua para que recupere la consciencia."
+    ],
+    "correcta": "c) Iniciar maniobras de reanimación cardiopulmonar (RCP) inmediatamente."
+  },
+  {
+    "numero": 10,
+    "pregunta": "¿Cuál es la primera acción que debemos realizar al llegar a un accidente de tráfico?",
+    "respuestas": [
+      "a) Mover a los heridos a un lugar seguro.",
+      "b) Asegurar la zona para evitar más accidentes.",
+      "c) Llamar a los servicios de emergencia.",
+      "d) Comprobar el estado de los vehículos."
+    ],
+    "correcta": "b) Asegurar la zona para evitar más accidentes."
+  },
+  {
+    "numero": 11,
+    "pregunta": "¿Qué debemos hacer si un herido está inconsciente, pero respira?",
+    "respuestas": [
+      "a) Colocarlo en posición lateral de seguridad.",
+      "b) Dejarlo en la posición en la que lo encontramos.",
+      "c) Darle agua para que recupere la consciencia.",
+      "d) Realizar maniobras de RCP."
+    ],
+    "correcta": "a) Colocarlo en posición lateral de seguridad."
+  },
+  {
+    "numero": 12,
+    "pregunta": "¿Cómo debemos actuar si un herido tiene una convulsión?",
+    "respuestas": [
+      "a) Sujetarlo para que deje de convulsionar.",
+      "b) Proteger su cabeza y evitar que se haga daño.",
+      "c) Darle algo de beber para calmarlo.",
+      "d) Realizar maniobras de RCP."
+    ],
+    "correcta": "b) Proteger su cabeza y evitar que se haga daño."
+  },
+  {
+    "numero": 13,
+    "pregunta": "¿Qué debemos hacer si un herido tiene una amputación traumática?",
+    "respuestas": [
+      "a) Darle algo de beber para calmarlo.",
+      "b) Colocarlo en posición lateral de seguridad.",
+      "c) Realizar maniobras de RCP.",
+      "d) Aplicar un torniquete por encima de la herida y conservar la parte amputada en frío."
+    ],
+    "correcta": "d) Aplicar un torniquete por encima de la herida y conservar la parte amputada en frío."
+  },
+  {
+    "numero": 14,
+    "pregunta": "¿Cómo debemos actuar si un herido presenta una hemorragia arterial?",
+    "respuestas": [
+      "a) Esperar a que la hemorragia se detenga sola.",
+      "b) Aplicar presión directa sobre la arteria afectada.",
+      "c) Darle algo de beber para calmarlo.",
+      "d) Mover al herido para que esté más cómodo."
+    ],
+    "correcta": "b) Aplicar presión directa sobre la arteria afectada."
+  },
+  {
+    "numero": 15,
+    "pregunta": "¿Cuál es la eficacia del cinturón de seguridad en caso de accidente?",
+    "respuestas": [
+      "a) No tiene ningún efecto en la seguridad.",
+      "b) Aumenta el riesgo de lesiones.",
+      "c) Reduce significativamente el riesgo de lesiones graves y mortales.",
+      "d) Solo es eficaz a bajas velocidades."
+    ],
+    "correcta": "c) Reduce significativamente el riesgo de lesiones graves y mortales."
+  },
+  {
+    "numero": 16,
+    "pregunta": "¿Cuál es la importancia del aprendizaje práctico en primeros auxilios?",
+    "respuestas": [
+      "a) Solo es útil para profesionales de la salud.",
+      "b) No tiene relevancia en la formación de primeros auxilios.",
+      "c) Permite adquirir habilidades esenciales para actuar en situaciones de emergencia.",
+      "d) Es menos importante que el aprendizaje teórico."
+    ],
+    "correcta": "c) Permite adquirir habilidades esenciales para actuar en situaciones de emergencia."
+  },
+  {
+    "numero": 17,
+    "pregunta": "¿Qué debemos hacer si un vehículo está en llamas?",
+    "respuestas": [
+      "a) Intentar apagar el fuego nosotros mismos.",
+      "b) Darle algo de beber a los heridos para calmarlos.",
+      "c) Alejar a los heridos del vehículo y llamar a los servicios de emergencia.",
+      "d) Colocar a los heridos en posición lateral de seguridad."
+    ],
+    "correcta": "c) Alejar a los heridos del vehículo y llamar a los servicios de emergencia."
+  },
+  {
+    "numero": 18,
+    "pregunta": "Señala la respuesta incorrecta:",
+    "respuestas": [
+      "a) La RCP incluye compresiones torácicas y respiración boca a boca.",
+      "b) La RCP puede ser necesaria en casos de paro cardíaco.",
+      "c) No se debe realizar RCP sin la presencia de un médico.",
+      "d) La RCP debe realizarse hasta que el pecho se eleve."
+    ],
+    "correcta": "c) No se debe realizar RCP sin la presencia de un médico."
+  },
+  {
+    "numero": 19,
+    "pregunta": "En el contexto de primeros auxilios, ¿cuál de las siguientes afirmaciones es incorrecta en relación con la protección de las víctimas?",
+    "respuestas": [
+      "a) No debemos preocuparnos por la protección de las víctimas, solo personal especializado puede hacerlo.",
+      "b) Es importante proteger a las víctimas de posibles peligros adicionales.",
+      "c) La protección de las víctimas incluye asegurar la zona del accidente.",
+      "d) La protección de las víctimas es una prioridad para evitar más lesiones."
+    ],
+    "correcta": "a) No debemos preocuparnos por la protección de las víctimas, solo personal especializado puede hacerlo."
+  },
+  {
+    "numero": 20,
+    "pregunta": "¿Qué implica la discapacidad visual?",
+    "respuestas": [
+      "a) Una pérdida significativa de la capacidad de escuchar.",
+      "b) Una pérdida significativa de la movilidad.",
+      "c) Una pérdida significativa de la visión.",
+      "d) Una pérdida significativa de la capacidad de hablar."
+    ],
+    "correcta": "c) Una pérdida significativa de la visión."
+  },
+  {
+    "numero": 21,
+    "pregunta": "¿Qué implica la discapacidad auditiva?",
+    "respuestas": [
+      "a) Una pérdida significativa de la visión.",
+      "b) Una pérdida significativa la movilidad.",
+      "c) Una pérdida significativa de la audición.",
+      "d) Una pérdida significativa de la capacidad de hablar."
+    ],
+    "correcta": "c) Una pérdida significativa de la audición."
+  },
+  {
+    "numero": 22,
+    "pregunta": "¿Qué significa tener movilidad reducida?",
+    "respuestas": [
+      "a) Tener dificultades para escuchar.",
+      "b) Tener dificultades para ver.",
+      "c) Tener dificultades para moverse o desplazarse.",
+      "d) Tener dificultades para hablar."
+    ],
+    "correcta": "c) Tener dificultades para moverse o desplazarse."
+  },
+  {
+    "numero": 23,
+    "pregunta": "¿Qué debe hacer un conductor de vehículo de arrendamiento con conductor si un pasajero tiene un perro guía?",
+    "respuestas": [
+      "a) Pedir al pasajero que deje al perro fuera.",
+      "b) Permitir que el perro guía entre en el vehículo.",
+      "c) Cobrar una tarifa adicional por el perro.",
+      "d) Proporcionar un asiento especial para el perro."
+    ],
+    "correcta": "b) Permitir que el perro guía entre en el vehículo."
+  },
+  {
+    "numero": 24,
+    "pregunta": "¿Qué es la accesibilidad en el transporte público?",
+    "respuestas": [
+      "a) La creación de rutas especiales para personas con discapacidad.",
+      "b) La adaptación de vehículos y servicios para ser utilizados por todas las personas, incluidas aquellas con discapacidades.",
+      "c) La reducción de tarifas para personas con discapacidad.",
+      "d) La instalación de ascensores en todas las estaciones."
+    ],
+    "correcta": "b) La adaptación de vehículos y servicios para ser utilizados por todas las personas, incluidas aquellas con discapacidades."
+  },
+  {
+    "numero": 25,
+    "pregunta": "¿Qué tipo de señalización se recomienda para personas con discapacidad visual?",
+    "respuestas": [
+      "a) Señalización en colores brillantes.",
+      "b) Señalización en braille y con alto contraste.",
+      "c) Señalización en texto grande.",
+      "d) Señalización auditiva."
+    ],
+    "correcta": "b) Señalización en braille y con alto contraste."
+  },
+  {
+    "numero": 26,
+    "pregunta": "¿Qué tipo de formación se recomienda para el personal que atiende a personas con discapacidades?",
+    "respuestas": [
+      "a) Formación en primeros auxilios.",
+      "b) Formación en idiomas.",
+      "c) Formación en seguridad.",
+      "d) Formación en atención y trato adecuado a personas con discapacidades."
+    ],
+    "correcta": "d) Formación en atención y trato adecuado a personas con discapacidades."
+  },
+  {
+    "numero": 27,
+    "pregunta": "¿Qué se recomienda para la accesibilidad en el entorno urbano?",
+    "respuestas": [
+      "a) Instalar más semáforos.",
+      "b) Proporcionar mapas de la ciudad.",
+      "c) Eliminar barreras arquitectónicas y proporcionar rutas accesibles.",
+      "d) Ofrecer transporte público gratuito."
+    ],
+    "correcta": "c) Eliminar barreras arquitectónicas y proporcionar rutas accesibles."
+  },
+  {
+    "numero": 28,
+    "pregunta": "¿Qué debe hacer un conductor de vehículo de arrendamiento con conductor si un pasajero con dificultades del habla necesita comunicarse durante el viaje?",
+    "respuestas": [
+      "a) Hablar más fuerte.",
+      "b) Ser paciente y permitir tiempo suficiente para la comunicación.",
+      "c) Utilizar gestos exagerados.",
+      "d) Proporcionar un manual de instrucciones."
+    ],
+    "correcta": "b) Ser paciente y permitir tiempo suficiente para la comunicación."
+  },
+  {
+    "numero": 29,
+    "pregunta": "¿Por qué es importante mantener contacto visual con una persona con discapacidad auditiva?",
+    "respuestas": [
+      "a) Facilita la lectura labial y la comunicación no verbal.",
+      "b) Es una señal de respeto.",
+      "c) Ayuda a mejorar la audición.",
+      "d) Es una norma de cortesía."
+    ],
+    "correcta": "a) Facilita la lectura labial y la comunicación no verbal."
+  },
+  {
+    "numero": 30,
+    "pregunta": "¿Qué es una discapacidad motora?",
+    "respuestas": [
+      "a) Una condición que afecta la audición.",
+      "b) Una condición que afecta la movilidad y el control motor.",
+      "c) Una condición que afecta la visión.",
+      "d) Una condición que afecta la capacidad verbal."
+    ],
+    "correcta": "b) Una condición que afecta la movilidad y el control motor."
+  },
+  {
+    "numero": 31,
+    "pregunta": "¿Qué se recomienda para ayudar a un pasajero que utiliza muletas?",
+    "respuestas": [
+      "a) Ofrecer asistencia para entrar y salir del vehículo.",
+      "b) Proporcionar un asiento adicional.",
+      "c) Ofrecer descuentos en tarifas.",
+      "d) Instalar sistemas de audio."
+    ],
+    "correcta": "a) Ofrecer asistencia para entrar y salir del vehículo."
+  },
+  {
+    "numero": 32,
+    "pregunta": "¿Qué es un bastón guiador y cómo ayuda a las personas con discapacidad visual?",
+    "respuestas": [
+      "a) Un dispositivo que mejora la audición.",
+      "b) Un sistema que facilita la movilidad.",
+      "c) Un dispositivo que ayuda a las personas con discapacidad visual a moverse de manera segura.",
+      "d) Un dispositivo que ayuda en la comunicación verbal."
+    ],
+    "correcta": "c) Un dispositivo que ayuda a las personas con discapacidad visual a moverse de manera segura."
+  },
+  {
+    "numero": 33,
+    "pregunta": "¿Qué se debe evitar al interactuar con un perro guía?",
+    "respuestas": [
+      "a) Permitir que el perro entre en el vehículo.",
+      "b) Proporcionar agua al perro durante el viaje.",
+      "c) Asegurarse de que el perro esté cómodo.",
+      "d) Distraer al perro mientras está trabajando."
+    ],
+    "correcta": "d) Distraer al perro mientras está trabajando."
+  },
+  {
+    "numero": 34,
+    "pregunta": "¿Cuál es la función principal de un guía que acompaña a una persona con discapacidad visual?",
+    "respuestas": [
+      "a) Proporcionar compañía a la persona.",
+      "b) Ayudar a la persona con discapacidad auditiva.",
+      "c) Ofrecer apoyo emocional a la persona.",
+      "d) Asistir a la persona en su movilidad y orientación."
+    ],
+    "correcta": "d) Asistir a la persona en su movilidad y orientación."
+  },
+  {
+    "numero": 35,
+    "pregunta": "¿Cuál es la mejor manera de llamar la atención de una persona con discapacidad auditiva?",
+    "respuestas": [
+      "a) Tocarle suavemente el hombro o hacer una señal visual.",
+      "b) Gritar su nombre.",
+      "c) Hacer ruido fuerte.",
+      "d) Utilizar un silbato."
+    ],
+    "correcta": "a) Tocarle suavemente el hombro o hacer una señal visual."
+  },
+  {
+    "numero": 36,
+    "pregunta": "¿Cuál es el beneficio de conocer bien las rutas y destinos comunes?",
+    "respuestas": [
+      "a) Aumentar el tiempo del viaje.",
+      "b) Evitar el uso de herramientas de navegación.",
+      "c) Mejorar la eficiencia y satisfacción del cliente.",
+      "d) Reducir el número de clientes."
+    ],
+    "correcta": "c) Mejorar la eficiencia y satisfacción del cliente."
+  },
+  {
+    "numero": 37,
+    "pregunta": "¿Cuál es una característica esencial del comportamiento profesional en la atención al cliente?",
+    "respuestas": [
+      "a) Hablar en voz alta.",
+      "b) Ignorar las quejas del cliente.",
+      "c) Mantener una actitud respetuosa y cortés.",
+      "d) Usar ropa informal."
+    ],
+    "correcta": "c) Mantener una actitud respetuosa y cortés."
+  },
+  {
+    "numero": 38,
+    "pregunta": "¿Qué acción es fundamental para mantener la confidencialidad del cliente?",
+    "respuestas": [
+      "a) Compartir datos con otros conductores.",
+      "b) Publicar detalles del viaje en redes sociales.",
+      "c) Almacenar información en dispositivos no seguros.",
+      "d) Proteger la información personal del cliente."
+    ],
+    "correcta": "d) Proteger la información personal del cliente."
+  },
+  {
+    "numero": 39,
+    "pregunta": "¿Cuál es una técnica clave de comunicación verbal para interactuar con los clientes?",
+    "respuestas": [
+      "a) Usar jerga técnica.",
+      "b) Hablar en voz baja.",
+      "c) Hablar de manera clara y concisa.",
+      "d) Evitar el contacto visual."
+    ],
+    "correcta": "c) Hablar de manera clara y concisa."
+  },
+  {
+    "numero": 40,
+    "pregunta": "¿Qué debe hacer un conductor al recibir una queja del cliente?",
+    "respuestas": [
+      "a) Ignorar la queja.",
+      "b) Culpar al cliente.",
+      "c) Escuchar con atención y mostrar empatía.",
+      "d) Desviar la responsabilidad a otro."
+    ],
+    "correcta": "c) Escuchar con atención y mostrar empatía."
+  },
+  {
+    "numero": 41,
+    "pregunta": "¿Qué debe hacer un conductor para asegurar el confort del vehículo?",
+    "respuestas": [
+      "a) Ignorar las necesidades del cliente.",
+      "b) Verificar que el aire acondicionado y la calefacción funcionen correctamente.",
+      "c) Mantener las ventanas cerradas en todo momento.",
+      "d) Evitar el uso de sistemas de entretenimiento."
+    ],
+    "correcta": "b) Verificar que el aire acondicionado y la calefacción funcionen correctamente."
+  },
+  {
+    "numero": 42,
+    "pregunta": "¿Qué debe hacer un conductor si se encuentra con un accidente en la carretera?",
+    "respuestas": [
+      "a) Ignorar el accidente.",
+      "b) Detenerse en un lugar seguro y seguir los protocolos de emergencia.",
+      "c) Continuar conduciendo sin detenerse.",
+      "d) Culpar a otros conductores."
+    ],
+    "correcta": "b) Detenerse en un lugar seguro y seguir los protocolos de emergencia."
+  },
+  {
+    "numero": 43,
+    "pregunta": "¿Cuál es una medida de prevención de riesgos laborales para un conductor?",
+    "respuestas": [
+      "a) Conducir sin descanso.",
+      "b) Ignorar las señales de fatiga.",
+      "c) Evitar el uso del cinturón de seguridad.",
+      "d) Realizar pausas regulares durante el trabajo."
+    ],
+    "correcta": "d) Realizar pausas regulares durante el trabajo."
+  },
+  {
+    "numero": 44,
+    "pregunta": "¿Qué debe hacer un conductor en caso de incendio en el vehículo?",
+    "respuestas": [
+      "a) Continuar conduciendo.",
+      "b) Ignorar el incendio.",
+      "c) Detener el vehículo en un lugar seguro y evacuar a los pasajeros.",
+      "d) Culpar a los pasajeros."
+    ],
+    "correcta": "c) Detener el vehículo en un lugar seguro y evacuar a los pasajeros."
+  },
+  {
+    "numero": 45,
+    "pregunta": "¿Por qué es importante que un conductor conozca las condiciones del tráfico en tiempo real?",
+    "respuestas": [
+      "a) Para aumentar el tiempo de viaje.",
+      "b) Para evitar el uso de herramientas de navegación.",
+      "c) Para evitar retrasos y ofrecer un servicio eficiente.",
+      "d) Para reducir la interacción con el cliente."
+    ],
+    "correcta": "c) Para evitar retrasos y ofrecer un servicio eficiente."
+  },
+  {
+    "numero": 46,
+    "pregunta": "¿Qué debe hacer un conductor para mejorar su conocimiento del área de servicio?",
+    "respuestas": [
+      "a) Explorar y familiarizarse con diferentes rutas y destinos.",
+      "b) Conducir siempre por la misma ruta.",
+      "c) Evitar el uso de herramientas de navegación.",
+      "d) Ignorar las actualizaciones de tráfico."
+    ],
+    "correcta": "a) Explorar y familiarizarse con diferentes rutas y destinos."
+  },
+  {
+    "numero": 47,
+    "pregunta": "¿Qué debe hacer un conductor para adaptar el servicio a personas con discapacidades cognitivas?",
+    "respuestas": [
+      "a) Ignorar las necesidades del cliente.",
+      "b) Cobrar tarifas adicionales.",
+      "c) Evitar aceptar estos servicios.",
+      "d) Ser paciente y ofrecer explicaciones claras y sencillas."
+    ],
+    "correcta": "d) Ser paciente y ofrecer explicaciones claras y sencillas."
+  },
+  {
+    "numero": 48,
+    "pregunta": "¿Qué debe hacer un conductor para recoger feedback/retroalimentación del cliente?",
+    "respuestas": [
+      "a) Ignorar las opiniones del cliente.",
+      "b) Evitar preguntar al cliente.",
+      "c) Desviar la conversación.",
+      "d) Solicitar opiniones y comentarios al final del servicio."
+    ],
+    "correcta": "d) Solicitar opiniones y comentarios al final del servicio."
+  },
+  {
+    "numero": 49,
+    "pregunta": "¿Qué debe hacer un conductor para manejar eficientemente las aplicaciones de VTC?",
+    "respuestas": [
+      "a) Ignorar las funciones de la aplicación.",
+      "b) Usar solo las funciones básicas.",
+      "c) Familiarizarse con todas las funciones y características de la aplicación.",
+      "d) Desinstalar la aplicación."
+    ],
+    "correcta": "c) Familiarizarse con todas las funciones y características de la aplicación."
+  },
+  {
+    "numero": 50,
+    "pregunta": "¿Qué acción puede ayudar a minimizar los retrasos en el servicio?",
+    "respuestas": [
+      "a) Ignorar las condiciones del tráfico.",
+      "b) Conducir sin planificación.",
+      "c) Usar herramientas de navegación.",
+      "d) Ignorar el procedimiento establecido por la empresa para gestionar reclamaciones."
+    ],
+    "correcta": "c) Usar herramientas de navegación."
+  },
+  {
+    "numero": 51,
+    "pregunta": "¿Cómo puede un conductor de vehículo de arrendamiento con conductor ayudar a un padre o madre con un bebé y movilidad reducida?",
+    "respuestas": [
+      "a) Pedirle que maneje el cochecito por sí mismo.",
+      "b) Proporcionar un asiento adicional.",
+      "c) Ofrecer descuentos en tarifas.",
+      "d) Ofrecer asistencia para cargar y descargar el cochecito y asegurar que el bebé esté bien sujeto."
+    ],
+    "correcta": "d) Ofrecer asistencia para cargar y descargar el cochecito y asegurar que el bebé esté bien sujeto."
+  }
+]

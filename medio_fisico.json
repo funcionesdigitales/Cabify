@@ -1,0 +1,552 @@
+[
+{
+"numero": 1,
+"pregunta": "¿Cuál es la principal recomendación para utilizar una aplicación GPS de manera segura mientras se conduce?",
+"respuestas": [
+"a) Ajustar la ruta durante el trayecto.",
+"b) Mirar el GPS continuamente.",
+"c) Ajustar la ruta antes de empezar a conducir.",
+"d) Mirar el GPS cada vez que cambie la ruta."
+],
+"correcta": "c) Ajustar la ruta antes de empezar a conducir."
+},
+{
+"numero": 2,
+"pregunta": "¿Qué función de una aplicación GPS es útil para evitar distracciones visuales?",
+"respuestas": [
+"a) La función de guía visual.",
+"b) La función de zoom automático.",
+"c) La función de mapa en 3D.",
+"d) La función de comandos de voz."
+],
+"correcta": "d) La función de comandos de voz."
+},
+{
+"numero": 3,
+"pregunta": "¿Qué debes hacer si el GPS deja de funcionar mientras conduces?",
+"respuestas": [
+"a) Continuar conduciendo y esperar que se solucione solo.",
+"b) Parar en un lugar seguro y reiniciar la aplicación.",
+"c) Cambiar a otra aplicación mientras conduces.",
+"d) Llamar a un amigo para pedir indicaciones."
+],
+"correcta": "b) Parar en un lugar seguro y reiniciar la aplicación."
+},
+{
+"numero": 4,
+"pregunta": "¿Qué debes hacer si el GPS te lleva por una ruta incorrecta?",
+"respuestas": [
+"a) Continuar y esperar a que se corrija automáticamente.",
+"b) Desactivar el GPS y usar un mapa físico.",
+"c) Ignorar el GPS y preguntar a un peatón.",
+"d) Parar en un lugar seguro y revisar la ruta."
+],
+"correcta": "d) Parar en un lugar seguro y revisar la ruta."
+},
+{
+"numero": 5,
+"pregunta": "¿Cuál es la forma más segura de recibir indicaciones mientras conduces?",
+"respuestas": [
+"a) Usar comandos de voz.",
+"b) Mirar la pantalla del móvil.",
+"c) Pedir a un pasajero que lea las indicaciones.",
+"d) Detenerse en cada cruce para revisar la ruta."
+],
+"correcta": "a) Usar comandos de voz."
+},
+{
+"numero": 6,
+"pregunta": "¿Qué debes hacer si el GPS te sugiere una ruta que no conoces?",
+"respuestas": [
+"a) Continuar y confiar en el GPS.",
+"b) Ignorar el GPS y seguir tu instinto.",
+"c) Cambiar de aplicación GPS.",
+"d) Parar en un lugar seguro y verificar la ruta."
+],
+"correcta": "d) Parar en un lugar seguro y verificar la ruta."
+},
+{
+"numero": 7,
+"pregunta": "¿Qué se debe hacer antes de iniciar un viaje largo utilizando GPS?",
+"respuestas": [
+"a) Ajustar la ruta mientras conduces.",
+"b) Usar el GPS únicamente en zonas urbanas.",
+"c) Planificar y programar la ruta en el GPS.",
+"d) Apagar el GPS."
+],
+"correcta": "c) Planificar y programar la ruta en el GPS."
+},
+{
+"numero": 8,
+"pregunta": "¿Por qué es recomendable usar un soporte magnético para el móvil al utilizar el GPS?",
+"respuestas": [
+"a) Mejora la calidad de la señal.",
+"b) Evita que el móvil se sobrecaliente.",
+"c) Permite ajustar el móvil sin quitar la vista de la carretera.",
+"d) Reduce el consumo de datos."
+],
+"correcta": "c) Permite ajustar el móvil sin quitar la vista de la carretera."
+},
+{
+"numero": 9,
+"pregunta": "¿Cuál es una buena práctica al usar aplicaciones GPS en condiciones climáticas adversas?",
+"respuestas": [
+"a) Aumentar el brillo de la pantalla del móvil.",
+"b) Consultar el GPS solo en carreteras rectas.",
+"c) Usar comandos de voz para evitar distracciones visuales.",
+"d) Apagar el GPS."
+],
+"correcta": "c) Usar comandos de voz para evitar distracciones visuales."
+},
+{
+"numero": 10,
+"pregunta": "¿Qué debes hacer para actualizar los mapas del GPS?",
+"respuestas": [
+"a) Llevar el GPS a una tienda de electrónica.",
+"b) No es necesario actualizar los mapas.",
+"c) Apagar y encender el GPS.",
+"d) Descargar las actualizaciones desde la web del fabricante."
+],
+"correcta": "d) Descargar las actualizaciones desde la web del fabricante."
+},
+{
+"numero": 11,
+"pregunta": "¿Cómo eliminas una dirección guardada en el GPS?",
+"respuestas": [
+"a) Desinstalando la aplicación del GPS.",
+"b) Accediendo al menú de direcciones guardadas y seleccionando eliminar.",
+"c) Reiniciando el GPS.",
+"d) Cambiando de coche."
+],
+"correcta": "b) Accediendo al menú de direcciones guardadas y seleccionando eliminar."
+},
+{
+"numero": 12,
+"pregunta": "¿Cómo introduces una ruta con múltiples paradas en el GPS?",
+"respuestas": [
+"a) Haciendo un mapa manual.",
+"b) No se pueden añadir múltiples paradas.",
+"c) Utilizando la opción de múltiples paradas en el menú de rutas.",
+"d) Solicitando asistencia técnica."
+],
+"correcta": "c) Utilizando la opción de múltiples paradas en el menú de rutas."
+},
+{
+"numero": 13,
+"pregunta": "¿Qué debes hacer para borrar el historial de búsqueda en el GPS?",
+"respuestas": [
+"a) Formatear el GPS.",
+"b) Acceder al historial de búsqueda y seleccionar borrar.",
+"c) No se puede borrar el historial de búsqueda.",
+"d) Reiniciar el coche."
+],
+"correcta": "b) Acceder al historial de búsqueda y seleccionar borrar."
+},
+{
+"numero": 14,
+"pregunta": "¿Qué debes hacer para configurar el tipo de vehículo en el GPS?",
+"respuestas": [
+"a) Seleccionar el tipo de vehículo en el menú del GPS.",
+"b) No se puede configurar el tipo de vehículo.",
+"c) Cambiar de coche.",
+"d) Reiniciar el GPS."
+],
+"correcta": "a) Seleccionar el tipo de vehículo en el menú del GPS."
+},
+{
+"numero": 15,
+"pregunta": "¿Qué tipo de aviso del GPS te informa de una parada de emergencia?",
+"respuestas": [
+"a) Alerta de radar.",
+"b) Alerta de tráfico denso.",
+"c) Alerta de curva peligrosa.",
+"d) Alerta de parada de emergencia."
+],
+"correcta": "d) Alerta de parada de emergencia."
+},
+{
+"numero": 16,
+"pregunta": "¿Cómo te avisa el GPS de un cruce peligroso?",
+"respuestas": [
+"a) Con un cambio de color en el mapa.",
+"b) Con una notificación de radar.",
+"c) Mediante una alerta de cruce peligroso.",
+"d) Con una vibración en el dispositivo."
+],
+"correcta": "c) Mediante una alerta de cruce peligroso."
+},
+{
+"numero": 17,
+"pregunta": "¿Qué debes hacer si el GPS te avisa de una zona de riesgo?",
+"respuestas": [
+"a) Reducir la velocidad y seguir las indicaciones del GPS.",
+"b) Apagar el GPS.",
+"c) Ignorar la alerta.",
+"d) Cambiar de ruta."
+],
+"correcta": "a) Reducir la velocidad y seguir las indicaciones del GPS."
+},
+{
+"numero": 18,
+"pregunta": "¿Cuál de estos parques es famoso por su Palacio de Cristal y su gran estanque?",
+"respuestas": [
+"a) La Alhambra.",
+"b) Parque Güell.",
+"c) El Retiro.",
+"d) Parque de María Luisa."
+],
+"correcta": "c) El Retiro."
+},
+{
+"numero": 19,
+"pregunta": "¿Qué templo antiguo fue donado a España por Egipto en 1968?",
+"respuestas": [
+"a) Templo de Karnak.",
+"b) Templo de Luxor.",
+"c) Templo de Debod.",
+"d) Templo de Abu Simbel."
+],
+"correcta": "c) Templo de Debod."
+},
+{
+"numero": 20,
+"pregunta": "¿Qué festividad madrileña celebra al patrón de la ciudad en mayo?",
+"respuestas": [
+"a) Las Fallas.",
+"b) La Feria de Abril.",
+"c) San Fermín.",
+"d) San Isidro."
+],
+"correcta": "d) San Isidro."
+},
+{
+"numero": 21,
+"pregunta": "¿En qué lugar de Madrid se encuentra el famoso \"Oso y el Madroño\"?",
+"respuestas": [
+"a) Plaza Cataluña.",
+"b) Puerta del Sol.",
+"c) Plaza de la Constitución.",
+"d) Plaza Mayor."
+],
+"correcta": "b) Puerta del Sol."
+},
+{
+"numero": 22,
+"pregunta": "¿Qué teatro en Madrid alberga representaciones de zarzuela?",
+"respuestas": [
+"a) Teatro Falla.",
+"b) Teatro de la Zarzuela.",
+"c) Teatro Romea.",
+"d) Teatro Arriaga."
+],
+"correcta": "b) Teatro de la Zarzuela."
+},
+{
+"numero": 23,
+"pregunta": "¿En qué plaza de Madrid se encuentra la estatua ecuestre de Carlos III?",
+"respuestas": [
+"a) Plaza Mayor.",
+"b) Plaza de Oriente.",
+"c) Puerta del Sol.",
+"d) Plaza de España."
+],
+"correcta": "c) Puerta del Sol."
+},
+{
+"numero": 24,
+"pregunta": "¿Qué calle de Madrid es famosa por sus tiendas de lujo y sus boutiques de alta moda?",
+"respuestas": [
+"a) Paseo de Gracia.",
+"b) Calle Larios.",
+"c) Calle Serrano.",
+"d) Avenida de América."
+],
+"correcta": "c) Calle Serrano."
+},
+{
+"numero": 25,
+"pregunta": "¿Qué monumento en Madrid es conocido por sus arcos de granito y su historia como puerta de entrada a la ciudad?",
+"respuestas": [
+"a) Arco de Cuchilleros.",
+"b) Acueducto de Segovia.",
+"c) Arco de Triunfo.",
+"d) Puerta de Alcalá."
+],
+"correcta": "d) Puerta de Alcalá."
+},
+{
+"numero": 26,
+"pregunta": "¿Cuál de estos edificios en Madrid es un famoso centro de exposiciones y congresos?",
+"respuestas": [
+"a) IFEMA.",
+"b) Fira de Barcelona.",
+"c) Ciudad de las Artes y las Ciencias.",
+"d) Palacio Euskalduna."
+],
+"correcta": "a) IFEMA."
+},
+{
+"numero": 27,
+"pregunta": "¿Qué teatro en Madrid es conocido por sus innovadoras producciones y su diseño contemporáneo?",
+"respuestas": [
+"a) Teatro Valle-Inclán.",
+"b) Teatro Campoamor.",
+"c) Teatro Chamartín.",
+"d) Teatro Principal."
+],
+"correcta": "a) Teatro Valle-Inclán."
+},
+{
+"numero": 28,
+"pregunta": "¿Cuál de estas calles es conocida por su vida nocturna y locales de música en vivo?",
+"respuestas": [
+"a) Calle Betis.",
+"b) Calle Huertas.",
+"c) Calle Elvira.",
+"d) Calle Estafeta."
+],
+"correcta": "b) Calle Huertas."
+},
+{
+"numero": 29,
+"pregunta": "¿Cuál de estas vías es conocida por albergar el Congreso de los Diputados?",
+"respuestas": [
+"a) Paseo del Prado.",
+"b) Carrera de San Jerónimo.",
+"c) Calle San Fernando.",
+"d) Paseo de la Alameda."
+],
+"correcta": "b) Carrera de San Jerónimo."
+},
+{
+"numero": 30,
+"pregunta": "¿Qué vía en Madrid es famosa por albergar el rascacielos Torre Picasso?",
+"respuestas": [
+"a) Plaza Pablo Ruiz Picasso.",
+"b) Plaza del Pilar.",
+"c) Plaza Mayor.",
+"d) Plaza Cataluña."
+],
+"correcta": "a) Plaza Pablo Ruiz Picasso."
+},
+{
+"numero": 31,
+"pregunta": "¿Qué calle en Madrid es conocida por su gran variedad de restaurantes?",
+"respuestas": [
+"a) Calle Betis.",
+"b) Calle Ponzano.",
+"c) Calle Elvira.",
+"d) Calle Larios."
+],
+"correcta": "b) Calle Ponzano."
+},
+{
+"numero": 32,
+"pregunta": "¿Qué carretera conecta Madrid con el sur de España?",
+"respuestas": [
+"a) A-4.",
+"b) A-2.",
+"c) A-3.",
+"d) A-6."
+],
+"correcta": "a) A-4."
+},
+{
+"numero": 33,
+"pregunta": "¿Qué avenida de Madrid conecta la Plaza de Castilla con el centro financiero?",
+"respuestas": [
+"a) Paseo del Prado.",
+"b) Paseo de la Castellana.",
+"c) Calle de Alcalá.",
+"d) Gran Vía."
+],
+"correcta": "b) Paseo de la Castellana."
+},
+{
+"numero": 34,
+"pregunta": "La Calle de Alcalá es una de las más largas de Madrid.",
+"respuestas": [
+"a) Verdadero.",
+"b) Falso.",
+"c) Es la más corta.",
+"d) Es una plaza."
+],
+"correcta": "a) Verdadero."
+},
+{
+"numero": 35,
+"pregunta": "La estación de Chamartín es una de las principales estaciones de tren de Madrid.",
+"respuestas": [
+"a) Falso.",
+"b) Es una estación de metro de Barcelona.",
+"c) Verdadero.",
+"d) Es una estación de autobuses."
+],
+"correcta": "c) Verdadero."
+},
+{
+"numero": 36,
+"pregunta": "¿Cómo afecta la implementación de las Zonas de Bajas Emisiones (ZBE) a los conductores?",
+"respuestas": [
+"a) Pueden usar cualquier vehículo sin restricciones.",
+"b) Deben reducir el uso de transporte público.",
+"c) Deben asegurarse de que sus vehículos cumplan con las normativas de emisiones.",
+"d) Incrementan el uso de combustibles fósiles."
+],
+"correcta": "c) Deben asegurarse de que sus vehículos cumplan con las normativas de emisiones."
+},
+{
+"numero": 37,
+"pregunta": "¿Qué debe hacer un conductor si su vehículo no tiene la etiqueta ambiental requerida para ingresar a una Zona de Bajas Emisiones(ZBE)?",
+"respuestas": [
+"a) Desconectar el sistema de navegación.",
+"b) Incrementar la velocidad para entrar rápidamente.",
+"c) Buscar rutas alternativas fuera de la ZBE.",
+"d) Encender las luces de emergencia."
+],
+"correcta": "c) Buscar rutas alternativas fuera de la ZBE."
+},
+{
+"numero": 38,
+"pregunta": "¿Qué debe hacer un conductor si se encuentra con señalización de Zona de Bajas Emisiones(ZBE) y no está seguro de su significado?",
+"respuestas": [
+"a) Continuar conduciendo sin reducir la velocidad.",
+"b) Desactivar las luces del vehículo.",
+"c) Consultar un mapa de ZBE o buscar información adicional.",
+"d) Ignorar la señalización."
+],
+"correcta": "c) Consultar un mapa de ZBE o buscar información adicional."
+},
+{
+"numero": 39,
+"pregunta": "¿Qué debe hacer un conductor si necesita hacer una parada en una Zona de Bajas Emisiones(ZBE)?",
+"respuestas": [
+"a) Estacionar en cualquier lugar disponible.",
+"b) Desactivar las luces de estacionamiento.",
+"c) Ignorar las restricciones de estacionamiento.",
+"d) Asegurarse de que está permitido estacionar y cumplir con las normativas locales."
+],
+"correcta": "d) Asegurarse de que está permitido estacionar y cumplir con las normativas locales."
+},
+{
+"numero": 40,
+"pregunta": "¿Qué debe hacer un conductor si le para un control policial en una Zona de Bajas Emisiones(ZBE)?",
+"respuestas": [
+"a) Aumentar la velocidad para evitar el control.",
+"b) Desactivar el sistema de navegación.",
+"c) Mostrar la documentación y la etiqueta ambiental del vehículo si se le requiere.",
+"d) Encender las luces de emergencia."
+],
+"correcta": "c) Mostrar la documentación y la etiqueta ambiental del vehículo si se le requiere."
+},
+{
+"numero": 41,
+"pregunta": "¿Qué debe hacer un conductor si ve una señal de prohibición de circulación para su tipo de vehículo en una Zona de Bajas Emisiones(ZBE)?",
+"respuestas": [
+"a) Incrementar la velocidad para pasar rápidamente.",
+"b) Desactivar las luces del vehículo.",
+"c) Buscar una ruta alternativa y respetar la señal.",
+"d) Ignorar la señal y continuar."
+],
+"correcta": "c) Buscar una ruta alternativa y respetar la señal."
+},
+{
+"numero": 42,
+"pregunta": "¿Qué vehículos están sujetos a las restricciones de tráfico en episodios de alta contaminación?",
+"respuestas": [
+"a) Vehículos con distintivo C.",
+"b) Vehículos eléctricos.",
+"c) Vehículos sin distintivo.",
+"d) Vehículos con distintivo Eco."
+],
+"correcta": "c) Vehículos sin distintivo."
+},
+{
+"numero": 43,
+"pregunta": "¿Cuál es la función del distintivo medioambiental B?",
+"respuestas": [
+"a) Identificar vehículos eléctricos.",
+"b) Identificar vehículos de gasolina con normativa Euro 3.",
+"c) Identificar vehículos de gas.",
+"d) Identificar vehículos híbridos enchufables."
+],
+"correcta": "b) Identificar vehículos de gasolina con normativa Euro 3."
+},
+{
+"numero": 44,
+"pregunta": "¿Cuál es una medida de incentivo para el uso de vehículos eléctricos?",
+"respuestas": [
+"a) Incremento del IVA.",
+"b) Prohibición de circular.",
+"c) Bonificaciones fiscales.",
+"d) Obligación de pagar peajes."
+],
+"correcta": "c) Bonificaciones fiscales."
+},
+{
+"numero": 45,
+"pregunta": "¿Qué se prohíbe en el escenario 3 del protocolo de alta contaminación?",
+"respuestas": [
+"a) Circular con vehículos sin distintivo.",
+"b) Usar bicicletas.",
+"c) Aumentar el uso del transporte público.",
+"d) Reducir la velocidad."
+],
+"correcta": "a) Circular con vehículos sin distintivo."
+},
+{
+"numero": 46,
+"pregunta": "¿Cuál es el beneficio de los distintivos medioambientales?",
+"respuestas": [
+"a) Aumentan las emisiones de CO2.",
+"b) Promueven el uso de vehículos antiguos.",
+"c) Incrementan el tráfico.",
+"d) Facilitan la identificación de vehículos menos contaminantes."
+],
+"correcta": "d) Facilitan la identificación de vehículos menos contaminantes."
+},
+{
+"numero": 47,
+"pregunta": "¿Qué distintivo medioambiental se otorga a los vehículos de gasolina con normativa Euro 3?",
+"respuestas": [
+"a) C",
+"b) B",
+"c) Eco",
+"d) Cero emisiones"
+],
+"correcta": "b) B"
+},
+{
+"numero": 48,
+"pregunta": "¿Qué objetivo tiene el Real Decreto 1052/2022?",
+"respuestas": [
+"a) Incrementar el tráfico vehicular.",
+"b) Promover el uso de combustibles fósiles.",
+"c) Eliminar las zonas peatonales.",
+"d) Mejorar la calidad del aire y mitigar el cambio climático."
+],
+"correcta": "d) Mejorar la calidad del aire y mitigar el cambio climático."
+},
+{
+"numero": 49,
+"pregunta": "¿Qué se requiere para que los vehículos puedan circular en una Zona de Bajas Emisiones(ZBE)?",
+"respuestas": [
+"a) Tener más de 15 años de antigüedad.",
+"b) Ser un vehículo de gran cilindrada.",
+"c) Cumplir con los requisitos de emisión establecidos.",
+"d) Tener la carrocería pintada de verde."
+],
+"correcta": "c) Cumplir con los requisitos de emisión establecidos."
+},
+{
+"numero": 50,
+"pregunta": "El distintivo Eco se otorga a los vehículos híbridos y de gas.",
+"respuestas": [
+"a) Falso.",
+"b) Solo a vehículos eléctricos.",
+"c) Verdadero.",
+"d) Solo a vehículos diésel."
+],
+"correcta": "c) Verdadero."
+}
+]

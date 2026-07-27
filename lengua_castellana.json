@@ -1,0 +1,552 @@
+[
+  {
+    "numero": 1,
+    "pregunta": "Elija la respuesta que sea correcta de entre las siguientes:\nVoy a casa delante mi amigo para estudiar toda la tarde.",
+    "respuestas": [
+      "a) Voy a casa delante mi amigo para estudiar toda la tarde.",
+      "b) Voy a casa para mi amigo para estudiar toda la tarde.",
+      "c) Voy a casa mi amigo para estudiar toda la tarde.",
+      "d) Voy a casa de mi amigo para estudiar toda la tarde."
+    ],
+    "correcta": "d) Voy a casa de mi amigo para estudiar toda la tarde."
+  },
+  {
+    "numero": 2,
+    "pregunta": "Elija la respuesta que sea correcta de entre las siguientes:\nEl cuaderno está para la mesa del comedor, junto a la lámpara.",
+    "respuestas": [
+      "a) El cuaderno está para la mesa del comedor, junto a la lámpara.",
+      "b) El cuaderno está entre la mesa del comedor, junto a la lámpara.",
+      "c) El cuaderno está sobre la mesa del comedor, junto a la lámpara.",
+      "d) El cuaderno está dentro la mesa del comedor, junto a la lámpara."
+    ],
+    "correcta": "c) El cuaderno está sobre la mesa del comedor, junto a la lámpara."
+  },
+  {
+    "numero": 3,
+    "pregunta": "Elija la respuesta que sea correcta de entre las siguientes:\nEl niño corrió hacia su madre cuando la vio llegar.",
+    "respuestas": [
+      "a) El niño corrió hacia su madre cuando la vio llegar.",
+      "b) El niño corrió su madre cuando la vio llegar.",
+      "c) El niño corrió en su madre cuando la vio llegar.",
+      "d) El niño corrió delante su madre cuando la vio llegar."
+    ],
+    "correcta": "a) El niño corrió hacia su madre cuando la vio llegar."
+  },
+  {
+    "numero": 4,
+    "pregunta": "Elija la respuesta que sea correcta de entre las siguientes:\nLos coches están aparcados de el edificio.",
+    "respuestas": [
+      "a) Los coches están aparcados de el edificio.",
+      "b) Los coches están aparcados el edificio.",
+      "c) Los coches están aparcados frente al edificio.",
+      "d) Los coches están aparcados dentro el edificio."
+    ],
+    "correcta": "c) Los coches están aparcados frente al edificio."
+  },
+  {
+    "numero": 5,
+    "pregunta": "¿Qué palabra tiene un significado similar a ‘difícil’?",
+    "respuestas": [
+      "a) Fácil",
+      "b) Sencillo",
+      "c) Simple",
+      "d) Complicado"
+    ],
+    "correcta": "d) Complicado"
+  },
+  {
+    "numero": 6,
+    "pregunta": "¿Qué palabra tiene un significado similar a ‘valiente’?",
+    "respuestas": [
+      "a) Intrépido",
+      "b) Cobarde",
+      "c) Miedoso",
+      "d) Asustado"
+    ],
+    "correcta": "a) Intrépido"
+  },
+  {
+    "numero": 7,
+    "pregunta": "¿Qué palabra tiene un significado similar a ‘tranquilo’?",
+    "respuestas": [
+      "a) Nervioso",
+      "b) Alterado",
+      "c) Calmado",
+      "d) Agitado"
+    ],
+    "correcta": "c) Calmado"
+  },
+  {
+    "numero": 8,
+    "pregunta": "¿Qué palabra tiene un significado similar a ‘famoso’?",
+    "respuestas": [
+      "a) Desconocido",
+      "b) Anónimo",
+      "c) Oculto",
+      "d) Conocido"
+    ],
+    "correcta": "d) Conocido"
+  },
+  {
+    "numero": 9,
+    "pregunta": "¿Qué palabra tiene un significado contrario a “fácil”?",
+    "respuestas": [
+      "a) Sencillo",
+      "b) Simple",
+      "c) Difícil",
+      "d) Cómodo"
+    ],
+    "correcta": "c) Difícil"
+  },
+  {
+    "numero": 10,
+    "pregunta": "¿Qué palabra tiene un significado contrario a “claro”?",
+    "respuestas": [
+      "a) Luminoso",
+      "b) Transparente",
+      "c) Oscuro",
+      "d) Brillante"
+    ],
+    "correcta": "c) Oscuro"
+  },
+  {
+    "numero": 11,
+    "pregunta": "¿Qué palabra tiene un significado contrario a “caliente”?",
+    "respuestas": [
+      "a) Abrasador",
+      "b) Cálido",
+      "c) Ardiente",
+      "d) Frío"
+    ],
+    "correcta": "d) Frío"
+  },
+  {
+    "numero": 12,
+    "pregunta": "¿Qué palabra tiene un significado contrario a “corto”?",
+    "respuestas": [
+      "a) Breve",
+      "b) Reducido",
+      "c) Largo",
+      "d) Pequeño"
+    ],
+    "correcta": "c) Largo"
+  },
+  {
+    "numero": 13,
+    "pregunta": "¿Qué pareja de palabras no significan lo mismo?",
+    "respuestas": [
+      "a) Triste – Apenado",
+      "b) Alto – Bajo",
+      "c) Rápido – Presto",
+      "d) Alegre – Festivo"
+    ],
+    "correcta": "b) Alto – Bajo"
+  },
+  {
+    "numero": 14,
+    "pregunta": "¿Qué pareja de palabras no significan lo mismo?",
+    "respuestas": [
+      "a) Pequeño – Diminuto",
+      "b) Ancho – Extenso",
+      "c) Fuerte – Débil",
+      "d) Espacioso – Amplio"
+    ],
+    "correcta": "c) Fuerte – Débil"
+  },
+  {
+    "numero": 15,
+    "pregunta": "¿Qué pareja de palabras no significan lo mismo?",
+    "respuestas": [
+      "a) Ancho – Estrecho",
+      "b) Robusto – Fuerte",
+      "c) Vigoroso – Enérgico",
+      "d) Resistente – Firme"
+    ],
+    "correcta": "a) Ancho – Estrecho"
+  },
+  {
+    "numero": 16,
+    "pregunta": "¿Qué pareja de palabras no significan lo mismo?",
+    "respuestas": [
+      "a) Enérgico – Fuerte",
+      "b) Resistente – Fuerte",
+      "c) Luminoso – Claro",
+      "d) Amable – Grosero"
+    ],
+    "correcta": "d) Amable – Grosero"
+  },
+  {
+    "numero": 17,
+    "pregunta": "¿Cuál es la forma correcta de entre las siguientes?\nLa calle ser cortada por obras en la vía.",
+    "respuestas": [
+      "a) La calle ser cortada por obras en la vía.",
+      "b) La calle está cortada por obras en la vía.",
+      "c) La calle tiene cortada por obras en la vía.",
+      "d) La cortada está calle por obras en la vía."
+    ],
+    "correcta": "b) La calle está cortada por obras en la vía."
+  },
+  {
+    "numero": 18,
+    "pregunta": "¿Cuál es la forma correcta de entre las siguientes?\nEl coche ser aparcado en la esquina de la calle.",
+    "respuestas": [
+      "a) El coche ser aparcado en la esquina de la calle.",
+      "b) El coche tiene aparcado en la esquina de la calle.",
+      "c) El coche está aparcado en la esquina de la calle.",
+      "d) El aparcado está coche en la esquina de la calle."
+    ],
+    "correcta": "c) El coche está aparcado en la esquina de la calle."
+  },
+  {
+    "numero": 19,
+    "pregunta": "Elija la respuesta que sea correcta frente a esta afirmación: “Si lo hubiera sabido antes”",
+    "respuestas": [
+      "a) habría venido",
+      "b) hubiste venido",
+      "c) he venido",
+      "d) vinisteis"
+    ],
+    "correcta": "a) habría venido"
+  },
+  {
+    "numero": 20,
+    "pregunta": "Elija la respuesta que sea correcta frente a esta afirmación: “Cuando cocino para mis amigos”",
+    "respuestas": [
+      "a) preparas platos deliciosos",
+      "b) preparo platos deliciosos",
+      "c) preparamos platos deliciosos",
+      "d) preparan platos deliciosos"
+    ],
+    "correcta": "b) preparo platos deliciosos"
+  },
+  {
+    "numero": 21,
+    "pregunta": "Elija la respuesta que sea correcta frente a esta afirmación: “Si hubiera sabido que venías hoy”",
+    "respuestas": [
+      "a) te habrías esperado en casa.",
+      "b) te habría esperado en casa.",
+      "c) te esperarías en casa.",
+      "d) te he esperado en casa."
+    ],
+    "correcta": "b) te habría esperado en casa."
+  },
+  {
+    "numero": 22,
+    "pregunta": "Elija la respuesta que sea correcta frente a esta afirmación: “Si hubiera sabido que necesitabas ayuda”",
+    "respuestas": [
+      "a) te habría ofrecido mi apoyo inmediato.",
+      "b) te habrías ofrecido mi apoyo inmediato.",
+      "c) te ofreciste mi apoyo inmediato.",
+      "d) te hubieras ofrecido mi apoyo inmediato."
+    ],
+    "correcta": "a) te habría ofrecido mi apoyo inmediato."
+  },
+  {
+    "numero": 23,
+    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"rotonda\"?",
+    "respuestas": [
+      "a) Conjunto de piezas que transmiten movimiento.",
+      "b) Dispositivo que regula el flujo de aire en un motor.",
+      "c) Intersección de varias vías en forma circular.",
+      "d) Parte delantera que protege el vehículo."
+    ],
+    "correcta": "c) Intersección de varias vías en forma circular."
+  },
+  {
+    "numero": 24,
+    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"semáforo\"?",
+    "respuestas": [
+      "a) Dispositivo luminoso que regula el paso de vehículos y peatones.",
+      "b) Luz que indica cambios de dirección.",
+      "c) Dispositivo que regula el flujo de aire en un motor.",
+      "d) Elemento que amortigua vibraciones."
+    ],
+    "correcta": "a) Dispositivo luminoso que regula el paso de vehículos y peatones."
+  },
+  {
+    "numero": 25,
+    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"peatón\"?",
+    "respuestas": [
+      "a) Elemento que proporciona tracción.",
+      "b) Persona que transita a pie por una vía pública.",
+      "c) Componente del motor de un vehículo.",
+      "d) Sistema de frenos de un vehículo."
+    ],
+    "correcta": "b) Persona que transita a pie por una vía pública."
+  },
+  {
+    "numero": 26,
+    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"elección\"?",
+    "respuestas": [
+      "a) Técnica de cultivo de plantas en invernaderos.",
+      "b) Proceso de selección entre varias opciones o candidatos.",
+      "c) Método de conservación de alimentos mediante congelación.",
+      "d) Actividad recreativa que se realiza en la playa."
+    ],
+    "correcta": "b) Proceso de selección entre varias opciones o candidatos."
+  },
+  {
+    "numero": 27,
+    "pregunta": "...es a coche como piloto es a...",
+    "respuestas": [
+      "a) Conductor - Avión",
+      "b) Automóvil - Nave",
+      "c) Viaje - Vuelo",
+      "d) Carretera - Aeropuerto"
+    ],
+    "correcta": "a) Conductor - Avión"
+  },
+  {
+    "numero": 28,
+    "pregunta": "...es a ciudad como rural es a...",
+    "respuestas": [
+      "a) Naturaleza – Aldea.",
+      "b) Urbano – Campo.",
+      "c) Metropolitano – Edificio.",
+      "d) Granja – Naturaleza."
+    ],
+    "correcta": "b) Urbano – Campo."
+  },
+  {
+    "numero": 29,
+    "pregunta": "...es a agua como sólido es a...",
+    "respuestas": [
+      "a) Gaseoso – Vapor.",
+      "b) Bebida – Tierra.",
+      "c) Líquido – Hielo.",
+      "d) Mar – Gaseoso."
+    ],
+    "correcta": "c) Líquido – Hielo."
+  },
+  {
+    "numero": 30,
+    "pregunta": "...es a cocina como chef es a...",
+    "respuestas": [
+      "a) Plato – Sartén.",
+      "b) Comida – Ingrediente.",
+      "c) Restaurante – Receta.",
+      "d) Sabor – Fuego."
+    ],
+    "correcta": "c) Restaurante – Receta."
+  },
+  {
+    "numero": 31,
+    "pregunta": "Complete la frase con la opción correcta: \"El conductor __________ la ruta más rápida.\"",
+    "respuestas": [
+      "a) conoce.",
+      "b) conoces.",
+      "c) conocí.",
+      "d) conocimos."
+    ],
+    "correcta": "a) conoce."
+  },
+  {
+    "numero": 32,
+    "pregunta": "Complete la frase con la opción correcta: \"El tráfico __________ muy denso hoy.\"",
+    "respuestas": [
+      "a) están.",
+      "b) estuve.",
+      "c) estuvimos.",
+      "d) está."
+    ],
+    "correcta": "d) está."
+  },
+  {
+    "numero": 33,
+    "pregunta": "Complete la frase con la opción correcta: \"El autobús __________ en perfectas condiciones.\"",
+    "respuestas": [
+      "a) encontrarse.",
+      "b) se encuentra.",
+      "c) se encontraría.",
+      "d) se encontraste."
+    ],
+    "correcta": "b) se encuentra."
+  },
+  {
+    "numero": 34,
+    "pregunta": "Complete la frase con la opción correcta: \"El pasajero __________ la dirección al conductor.\"",
+    "respuestas": [
+      "a) muestras.",
+      "b) mostraría.",
+      "c) mostrando.",
+      "d) muestra."
+    ],
+    "correcta": "d) muestra."
+  },
+  {
+    "numero": 35,
+    "pregunta": "Seleccione la opción correcta:",
+    "respuestas": [
+      "a) ¿Dónde trabajas?.",
+      "b) ¿Dónde trabajando?.",
+      "c) ¿Dónde trabajas él?.",
+      "d) ¿Dónde trabajas usted?."
+    ],
+    "correcta": "a) ¿Dónde trabajas?."
+  },
+  {
+    "numero": 36,
+    "pregunta": "Seleccione la opción correcta:",
+    "respuestas": [
+      "a) ¿Qué te gusta haces?.",
+      "b) ¿Qué te gusta haciendo?.",
+      "c) ¿Qué te gusta hiciste?.",
+      "d) ¿Qué te gusta hacer?."
+    ],
+    "correcta": "d) ¿Qué te gusta hacer?."
+  },
+  {
+    "numero": 37,
+    "pregunta": "Seleccione la opción correcta:",
+    "respuestas": [
+      "a) ¿Cuándo es tú cumpleaños?.",
+      "b) ¿Cuándo es tu cumpleaños?.",
+      "c) ¿Cuándo es la cumpleaños?.",
+      "d) ¿Cuándo es sus cumpleaños?."
+    ],
+    "correcta": "b) ¿Cuándo es tu cumpleaños?."
+  },
+  {
+    "numero": 38,
+    "pregunta": "Seleccione la opción correcta:",
+    "respuestas": [
+      "a) ¿Qué quieres bebes?.",
+      "b) ¿Qué quieres beber?.",
+      "c) ¿Qué quieres bebiendo?.",
+      "d) ¿Qué quieres bebí?."
+    ],
+    "correcta": "b) ¿Qué quieres beber?."
+  },
+  {
+    "numero": 39,
+    "pregunta": "¿Qué palabra no guarda relación con el resto?",
+    "respuestas": [
+      "a) Manzana.",
+      "b) Pera.",
+      "c) Plátano.",
+      "d) Sudadera."
+    ],
+    "correcta": "d) Sudadera."
+  },
+  {
+    "numero": 40,
+    "pregunta": "¿Qué palabra no guarda relación con el resto?",
+    "respuestas": [
+      "a) Casa.",
+      "b) Brújula.",
+      "c) Apartamento.",
+      "d) Chalet."
+    ],
+    "correcta": "b) Brújula."
+  },
+  {
+    "numero": 41,
+    "pregunta": "¿Qué palabra no guarda relación con el resto?",
+    "respuestas": [
+      "a) Tigre.",
+      "b) Pizza.",
+      "c) Pasta.",
+      "d) Comida."
+    ],
+    "correcta": "a) Tigre."
+  },
+  {
+    "numero": 42,
+    "pregunta": "¿Qué palabra no guarda relación con el resto?",
+    "respuestas": [
+      "a) Taburete.",
+      "b) Sol.",
+      "c) Silla.",
+      "d) Sofá."
+    ],
+    "correcta": "b) Sol."
+  },
+  {
+    "numero": 43,
+    "pregunta": "Elija la respuesta correcta, entre las siguiente, respecto a esta afirmación: “Tener la mosca detrás de la oreja.”",
+    "respuestas": [
+      "a) Tener una mosca.",
+      "b) Escuchar un zumbido.",
+      "c) Ser una mosca.",
+      "d) Sospechar algo."
+    ],
+    "correcta": "d) Sospechar algo."
+  },
+  {
+    "numero": 44,
+    "pregunta": "Elija la respuesta correcta, entre las siguiente, respecto a esta afirmación: “Tomar el pelo.”",
+    "respuestas": [
+      "a) Cortar el pelo.",
+      "b) Peinarse.",
+      "c) Tomar algo con las manos.",
+      "d) Bromear."
+    ],
+    "correcta": "d) Bromear."
+  },
+  {
+    "numero": 45,
+    "pregunta": "Elija la respuesta correcta, entre las siguiente, respecto a esta afirmación: “Me ha costado un riñón.”",
+    "respuestas": [
+      "a) He tenido un problema.",
+      "b) He perdido algo.",
+      "c) Ha sido muy caro o difícil.",
+      "d) He hecho ejercicio."
+    ],
+    "correcta": "c) Ha sido muy caro o difícil."
+  },
+  {
+    "numero": 46,
+    "pregunta": "Elija la respuesta correcta, entre las siguiente, respecto a esta afirmación: “Más vale tarde que nunca.”",
+    "respuestas": [
+      "a) Es mejor hacer algo tarde que no hacerlo en absoluto.",
+      "b) Es mejor no hacer nada nunca",
+      "c) Es mejor llegar temprano siempre.",
+      "d) Es mejor no llegar nunca."
+    ],
+    "correcta": "a) Es mejor hacer algo tarde que no hacerlo en absoluto."
+  },
+  {
+    "numero": 47,
+    "pregunta": "Dulce es a azúcar como salado es a",
+    "respuestas": [
+      "a) Pimienta.",
+      "b) Sal.",
+      "c) Vinagre.",
+      "d) Aceite."
+    ],
+    "correcta": "b) Sal."
+  },
+  {
+    "numero": 48,
+    "pregunta": "Rápido es a coche como lento es a",
+    "respuestas": [
+      "a) Liebre.",
+      "b) Gato.",
+      "c) Perro.",
+      "d) Tortuga"
+    ],
+    "correcta": "d) Tortuga"
+  },
+  {
+    "numero": 49,
+    "pregunta": "Alto es a montaña como profundo es a:",
+    "respuestas": [
+      "a) Río.",
+      "b) Lago.",
+      "c) Mar.",
+      "d) Valle."
+    ],
+    "correcta": "c) Mar."
+  },
+  {
+    "numero": 50,
+    "pregunta": "Blanco es a nieve como negro es a:",
+    "respuestas": [
+      "a) Tiza.",
+      "b) Papel.",
+      "c) Carbón.",
+      "d) Algodón."
+    ],
+    "correcta": "c) Carbón."
+  }
+]

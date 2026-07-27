@@ -1,0 +1,563 @@
+[
+  {
+    "numero": 1,
+    "pregunta": "¿Qué tipo de prueba deben superar los conductores de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Prueba de resistencia física.",
+      "b) Prueba de habilidades culinarias.",
+      "c) Prueba de conocimientos sobre manejo de dispositivos digitales con mapa de navegación, uso del castellano, y primeros auxilios, entre otros.",
+      "d) Prueba de conocimientos musicales."
+    ],
+    "correcta": "c) Prueba de conocimientos sobre manejo de dispositivos digitales con mapa de navegación, uso del castellano, y primeros auxilios, entre otros."
+  },
+  {
+    "numero": 2,
+    "pregunta": "¿Qué tipo de seguro es obligatorio para los vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Seguro de decesos.",
+      "b) Seguro de dependencia.",
+      "c) Seguro de hogar.",
+      "d) Seguro de responsabilidad civil."
+    ],
+    "correcta": "d) Seguro de responsabilidad civil."
+  },
+  {
+    "numero": 3,
+    "pregunta": "¿Qué necesitan tener las empresas titulares de autorizaciones de transporte para hacer contratos de transporte a distancia?",
+    "respuestas": [
+      "a) Registro físico.",
+      "b) Notario.",
+      "c) Cámara de Comercio.",
+      "d) Dirección y firma electrónica."
+    ],
+    "correcta": "d) Dirección y firma electrónica."
+  },
+  {
+    "numero": 4,
+    "pregunta": "¿Qué requisitos deben cumplir los vehículos adaptados para personas con discapacidad?",
+    "respuestas": [
+      "a) Ser más pequeños.",
+      "b) Tener un color específico.",
+      "c) Prestar servicios de acuerdo con la normativa de accesibilidad.",
+      "d) No es necesario cumplir ninguna condición especial."
+    ],
+    "correcta": "c) Prestar servicios de acuerdo con la normativa de accesibilidad."
+  },
+  {
+    "numero": 5,
+    "pregunta": "Respecto a la identificación de VTC, ¿Cómo deben estar los vehículos que se usan para la actividad de arrendamiento con conductor en la Comunidad de Madrid?",
+    "respuestas": [
+      "a) Sin identificación.",
+      "b) Con identificación temporal.",
+      "c) Solo con una placa de identificación.",
+      "d) Permanentemente identificados con los distintivos identificativos previstos en el Decreto 101/2016."
+    ],
+    "correcta": "d) Permanentemente identificados con los distintivos identificativos previstos en el Decreto 101/2016."
+  },
+  {
+    "numero": 6,
+    "pregunta": "¿Quién da las autorizaciones de arrendamiento de vehículos con conductor?",
+    "respuestas": [
+      "a) Ayuntamiento de Madrid.",
+      "b) Comunidad de Madrid.",
+      "c) Ministerio de Transporte.",
+      "d) Dirección General de Tráfico."
+    ],
+    "correcta": "b) Comunidad de Madrid."
+  },
+  {
+    "numero": 7,
+    "pregunta": "¿Qué título deben tener los conductores según el Decreto 5/2024?",
+    "respuestas": [
+      "a) Licencia internacional de conducción.",
+      "b) Permiso de conductor expedido por la consejería competente en materia de Transportes.",
+      "c) Diploma en transporte urbano.",
+      "d) Certificado de aptitud física."
+    ],
+    "correcta": "b) Permiso de conductor expedido por la consejería competente en materia de Transportes."
+  },
+  {
+    "numero": 8,
+    "pregunta": "¿Qué información se debe dar antes de empezar el servicio de arrendamiento de vehículo con conductor?",
+    "respuestas": [
+      "a) Fecha de nacimiento del titular de la autorización.",
+      "b) Nombre del conductor.",
+      "c) Nombre y número de identificación fiscal del titular de la autorización.",
+      "d) Número de licencia del vehículo."
+    ],
+    "correcta": "c) Nombre y número de identificación fiscal del titular de la autorización."
+  },
+  {
+    "numero": 9,
+    "pregunta": "¿Qué prueba deben superar los conductores según el Decreto 5/2024?",
+    "respuestas": [
+      "a) Prueba de mecánica automotriz.",
+      "b) Prueba de aptitud física, entre otras.",
+      "c) Prueba de manejo de dispositivos digitales con mapa de navegación, entre otras.",
+      "d) Prueba de conocimientos de idiomas."
+    ],
+    "correcta": "c) Prueba de manejo de dispositivos digitales con mapa de navegación, entre otras."
+  },
+  {
+    "numero": 10,
+    "pregunta": "¿Qué permiso de conducir deben tener los conductores de vehículos de arrendamiento con conductor según el Decreto 5/2024?",
+    "respuestas": [
+      "a) Permiso de conducir de la clase B, con al menos dos años de antigüedad.",
+      "b) No deben tener ningún permiso.",
+      "c) Permiso de conducir de la clase A.",
+      "d) Permiso de conducir internacional."
+    ],
+    "correcta": "a) Permiso de conducir de la clase B, con al menos dos años de antigüedad."
+  },
+  {
+    "numero": 11,
+    "pregunta": "¿Qué tipo de persona puede pedir la autorización de arrendamiento de vehículos con conductor según el Decreto 5/2024?",
+    "respuestas": [
+      "a) Persona física o jurídica.",
+      "b) Únicamente personas solteras.",
+      "c) Únicamente personas casadas.",
+      "d) Solamente mayores de 18 años."
+    ],
+    "correcta": "a) Persona física o jurídica."
+  },
+  {
+    "numero": 12,
+    "pregunta": "¿Cuál es el objetivo del Decreto 101/2016?",
+    "respuestas": [
+      "a) Regular el uso de taxis en la Comunidad de Madrid.",
+      "b) Establecer tarifas para el transporte público.",
+      "c) Regular los distintivos identificativos de los vehículos dedicados al arrendamiento de vehículos con conductor en la Comunidad de Madrid.",
+      "d) Establecer nuevas rutas de transporte público."
+    ],
+    "correcta": "c) Regular los distintivos identificativos de los vehículos dedicados al arrendamiento de vehículos con conductor en la Comunidad de Madrid."
+  },
+  {
+    "numero": 13,
+    "pregunta": "¿El objetivo de los distintivos identificativos es mejorar la estética de los vehículos?",
+    "respuestas": [
+      "a) Verdadero.",
+      "b) No se menciona en la normativa.",
+      "c) El objetivo de los distintivos es mejorar la identificación del conductor.",
+      "d) Falso."
+    ],
+    "correcta": "d) Falso."
+  },
+  {
+    "numero": 14,
+    "pregunta": "¿El distintivo identificativo de la parte inferior izquierda de la luna trasera tiene la medida de 8 cm x 14 cm?",
+    "respuestas": [
+      "a) Verdadero.",
+      "b) Falso.",
+      "c) En la luna trasera no se debe instalar el distintivo.",
+      "d) La medida correcta e 9 x 12 cm."
+    ],
+    "correcta": "a) Verdadero."
+  },
+  {
+    "numero": 15,
+    "pregunta": "¿El distintivo identificativo de la luna delantera debe colocarse en la parte inferior derecha?",
+    "respuestas": [
+      "a) Verdadero.",
+      "b) No debe colocarse ningún distintivo en la luna delantera.",
+      "c) Falso.",
+      "d) Debe colocarse en la parte superior izquierda."
+    ],
+    "correcta": "c) Falso."
+  },
+  {
+    "numero": 16,
+    "pregunta": "El incumplimiento de lo previsto en el Decreto 101/2016 será sancionado conforme a______.",
+    "respuestas": [
+      "a) el Código Penal.",
+      "b) la Ley de Seguridad Vial.",
+      "c) la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.",
+      "d) el Reglamento de Tráfico."
+    ],
+    "correcta": "c) la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres."
+  },
+  {
+    "numero": 17,
+    "pregunta": "El órgano encargado de facilitar el distintivo identificativo realizará una marca en el número correspondiente______.",
+    "respuestas": [
+      "a) al año de fabricación del vehículo.",
+      "b) a la fecha de adquisición del vehículo.",
+      "c) a la fecha de la última revisión del vehículo.",
+      "d) al mes concreto en que el visado debe ser realizado."
+    ],
+    "correcta": "d) al mes concreto en que el visado debe ser realizado."
+  },
+  {
+    "numero": 18,
+    "pregunta": "Los vehículos dedicados a la actividad de arrendamiento con conductor deben estar permanentemente identificados mediante______.",
+    "respuestas": [
+      "a) una pegatina blanca y amarilla.",
+      "b) un cartel en el parabrisas.",
+      "c) los distintivos previstos en el Anexo del Decreto 101/2016.",
+      "d) una placa en el techo."
+    ],
+    "correcta": "c) los distintivos previstos en el Anexo del Decreto 101/2016."
+  },
+  {
+    "numero": 19,
+    "pregunta": "Señala la respuesta correcta. ¿Qué autoridad es responsable de disponer los distintivos según el Decreto 101/2016?",
+    "respuestas": [
+      "a) Las empresas de arrendamiento de vehículos.",
+      "b) Los concesionarios de vehículos.",
+      "c) El órgano competente para el otorgamiento de las autorizaciones.",
+      "d) Los conductores."
+    ],
+    "correcta": "c) El órgano competente para el otorgamiento de las autorizaciones."
+  },
+  {
+    "numero": 20,
+    "pregunta": "¿Qué exige la Ley 16/1987 para el otorgamiento de la autorización de transporte público?",
+    "respuestas": [
+      "a) Las empresas deben tener una capacidad económica mínima de 10.000 euros.",
+      "b) Tener nacionalidad española o la de algún otro Estado miembro de la Unión Europea, entre otros requisitos.",
+      "c) Que el conductor tenga 18 años.",
+      "d) Contar con un domicilio situado fuera de España."
+    ],
+    "correcta": "b) Tener nacionalidad española o la de algún otro Estado miembro de la Unión Europea, entre otros requisitos."
+  },
+  {
+    "numero": 21,
+    "pregunta": "¿Qué se considera una infracción muy grave en relación con la captación de clientes?",
+    "respuestas": [
+      "a) La captación de clientes en zonas rurales.",
+      "b) La captación de clientes en días festivos.",
+      "c) La circulación para búsqueda, recogida o captación de clientes que no hayan contratado previamente el servicio.",
+      "d) La captación de clientes a través de aplicaciones móviles."
+    ],
+    "correcta": "c) La circulación para búsqueda, recogida o captación de clientes que no hayan contratado previamente el servicio."
+  },
+  {
+    "numero": 22,
+    "pregunta": "Completa la frase. Los servicios de arrendamiento de vehículos con conductor deberán iniciarse en el territorio de la comunidad autónoma en que se encuentre domiciliada______.",
+    "respuestas": [
+      "a) la empresa de transporte.",
+      "b) la correspondiente autorización.",
+      "c) el pasajero.",
+      "d) el vehículo."
+    ],
+    "correcta": "b) la correspondiente autorización."
+  },
+  {
+    "numero": 23,
+    "pregunta": "Completa la frase. La denegación de la autorización de arrendamiento de vehículos con conductor puede basarse en el valor límite anual de______.",
+    "respuestas": [
+      "a) CO2.",
+      "b) O3.",
+      "c) NO2 o PM2.5.",
+      "d) CH4."
+    ],
+    "correcta": "c) NO2 o PM2.5."
+  },
+  {
+    "numero": 24,
+    "pregunta": "Completa la frase. El arrendamiento de vehículos de turismo con conductor constituye una modalidad de______.",
+    "respuestas": [
+      "a) transporte de mercancías.",
+      "b) transporte mixto.",
+      "c) transporte de mercancías peligrosas.",
+      "d) transporte de viajeros."
+    ],
+    "correcta": "d) transporte de viajeros."
+  },
+  {
+    "numero": 25,
+    "pregunta": "Completa la frase. La autorización de arrendamiento de vehículos con conductor estará condicionada al cumplimiento de criterios______.",
+    "respuestas": [
+      "a) de capacidad.",
+      "b) medioambientales.",
+      "c) técnicos.",
+      "d) de antigüedad."
+    ],
+    "correcta": "b) medioambientales."
+  },
+  {
+    "numero": 26,
+    "pregunta": "¿Cuándo se considera que un transporte es interurbano?",
+    "respuestas": [
+      "a) Cuando el recorrido se realiza únicamente dentro de un término municipal.",
+      "b) Cuando el recorrido se realiza en zonas rurales.",
+      "c) Cuando el recorrido se realiza en zonas urbanas.",
+      "d) Cuando el recorrido rebase el territorio de un único término municipal."
+    ],
+    "correcta": "d) Cuando el recorrido rebase el territorio de un único término municipal."
+  },
+  {
+    "numero": 27,
+    "pregunta": "¿Qué permite la autorización de transporte de viajeros?",
+    "respuestas": [
+      "a) Llevar únicamente el equipaje de mano de los viajeros.",
+      "b) Llevar mercancías peligrosas.",
+      "c) Llevar objetos voluminosos.",
+      "d) Llevar el equipaje de los viajeros que ocupen el vehículo utilizado."
+    ],
+    "correcta": "d) Llevar el equipaje de los viajeros que ocupen el vehículo utilizado."
+  },
+  {
+    "numero": 28,
+    "pregunta": "¿Qué se considera una infracción muy grave?",
+    "respuestas": [
+      "a) No llevar la hoja de ruta a bordo del vehículo.",
+      "b) No usar cinturón de seguridad.",
+      "c) No realizar la revisión técnica del vehículo.",
+      "d) Iniciar un servicio en un ámbito territorial distinto de aquél en que resulta obligatorio hacerlo."
+    ],
+    "correcta": "d) Iniciar un servicio en un ámbito territorial distinto de aquél en que resulta obligatorio hacerlo."
+  },
+  {
+    "numero": 29,
+    "pregunta": "Completa la frase. La prestación de servicios mediante arrendamiento de vehículos con conductor deberá cumplir los requisitos relacionados con ______.",
+    "respuestas": [
+      "a) tarifas.",
+      "b) publicidad.",
+      "c) conductores, vehículos y demás condiciones reglamentarias.",
+      "d) horarios."
+    ],
+    "correcta": "c) conductores, vehículos y demás condiciones reglamentarias."
+  },
+  {
+    "numero": 30,
+    "pregunta": "Completa la frase. En la Comunidad de Madrid, los servicios de arrendamiento de vehículos con conductor deben contar con una autorización para______.",
+    "respuestas": [
+      "a) el transporte de mercancías.",
+      "b) la publicidad exterior.",
+      "c) el uso de combustible.",
+      "d) la prestación de servicios urbanos."
+    ],
+    "correcta": "d) la prestación de servicios urbanos."
+  },
+  {
+    "numero": 31,
+    "pregunta": "La prestación de servicios mediante arrendamiento de vehículos con conductor se realizará cumpliendo los requisitos reglamentarios en relación con los conductores y vehículos.",
+    "respuestas": [
+      "a) Falso.",
+      "b) Verdadero, pero solo en áreas rurales.",
+      "c) Verdadero.",
+      "d) Falso, excepto en días festivos."
+    ],
+    "correcta": "c) Verdadero."
+  },
+  {
+    "numero": 32,
+    "pregunta": "¿Qué pueden establecer reglamentariamente para evitar situaciones desmedidas en condiciones de alta demanda?",
+    "respuestas": [
+      "a) Aumento máximo a aplicar sobre el precio de los servicios.",
+      "b) Reducción máxima del precio de los servicios.",
+      "c) Aumento mínimo del precio de los servicios.",
+      "d) Reducción mínima del precio de los servicios."
+    ],
+    "correcta": "a) Aumento máximo a aplicar sobre el precio de los servicios."
+  },
+  {
+    "numero": 33,
+    "pregunta": "¿Qué acción se considera una infracción grave en relación con los distintivos identificativos exigibles en los vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Llevar distintivos en días festivos.",
+      "b) Llevar distintivos identificativos en el interior del vehículo.",
+      "c) No llevar los distintivos identificativos exigibles.",
+      "d) Llevar distintivos identificativos en áreas rurales."
+    ],
+    "correcta": "c) No llevar los distintivos identificativos exigibles."
+  },
+  {
+    "numero": 34,
+    "pregunta": "¿Qué debe llevarse en el vehículo al iniciar un servicio de arrendamiento de vehículos con conductor?",
+    "respuestas": [
+      "a) Los distintivos identificativos exigibles.",
+      "b) La publicidad.",
+      "c) Los datos del pasajero.",
+      "d) La matrícula del vehículo."
+    ],
+    "correcta": "a) Los distintivos identificativos exigibles."
+  },
+  {
+    "numero": 35,
+    "pregunta": "¿Qué se requiere para realizar servicios urbanos mediante arrendamiento de vehículos con conductor en la Comunidad de Madrid?",
+    "respuestas": [
+      "a) La correspondiente autorización.",
+      "b) La matrícula del vehículo.",
+      "c) La tarjeta de crédito del pasajero.",
+      "d) La hoja de ruta detallada."
+    ],
+    "correcta": "a) La correspondiente autorización."
+  },
+  {
+    "numero": 36,
+    "pregunta": "¿Qué deben cumplir los titulares de autorizaciones de arrendamiento de vehículos con conductor en la Comunidad de Madrid?",
+    "respuestas": [
+      "a) Los requisitos establecidos por la Unión Europea.",
+      "b) Los requisitos establecidos por el conductor.",
+      "c) Los requisitos establecidos reglamentariamente.",
+      "d) Los requisitos establecidos por la empresa titular de la autorización."
+    ],
+    "correcta": "c) Los requisitos establecidos reglamentariamente."
+  },
+  {
+    "numero": 37,
+    "pregunta": "¿Qué requisitos deben cumplir los vehículos utilizados en servicios de arrendamiento de conductor?",
+    "respuestas": [
+      "a) Aquellos establecidos por la normativa vigente.",
+      "b) Los requisitos de la empresa propietaria.",
+      "c) Las normativas específicas del municipio.",
+      "d) Las preferencias del conductor."
+    ],
+    "correcta": "a) Aquellos establecidos por la normativa vigente."
+  },
+  {
+    "numero": 38,
+    "pregunta": "¿Se necesita comunicar los datos del servicio antes de iniciarlo?",
+    "respuestas": [
+      "a) No, no es necesario.",
+      "b) Solo si el servicio se realiza en áreas urbanas.",
+      "c) Sí, debe comunicarse al registro de comunicaciones.",
+      "d) Solo en servicios de larga distancia."
+    ],
+    "correcta": "c) Sí, debe comunicarse al registro de comunicaciones."
+  },
+  {
+    "numero": 39,
+    "pregunta": "¿Qué sucede si no se cumplen los requisitos establecidos reglamentariamente a la hora del otorgamiento de la autorización?",
+    "respuestas": [
+      "a) Se concederá una autorización temporal.",
+      "b) Se solicitará un informe adicional.",
+      "c) Se denegará la autorización.",
+      "d) Se reducirá la tarifa."
+    ],
+    "correcta": "c) Se denegará la autorización."
+  },
+  {
+    "numero": 40,
+    "pregunta": "¿Qué infracción se comete al captar clientes que no hayan contratado previamente el servicio de arrendamiento de vehículos con conductor?",
+    "respuestas": [
+      "a) Infracción leve.",
+      "b) Infracción grave.",
+      "c) Infracción administrativa.",
+      "d) Infracción moderada."
+    ],
+    "correcta": "b) Infracción grave."
+  },
+  {
+    "numero": 41,
+    "pregunta": "El órgano competente para el otorgamiento de autorizaciones de arrendamiento de vehículos con conductor en la Comunidad de Madrid es ______.",
+    "respuestas": [
+      "a) la Comunidad de Madrid.",
+      "b) el Ayuntamiento.",
+      "c) el Ministerio de Transporte.",
+      "d) la Dirección General de Tráfico."
+    ],
+    "correcta": "a) la Comunidad de Madrid."
+  },
+  {
+    "numero": 42,
+    "pregunta": "Según la Ley 13/2021, la prestación de servicios mediante arrendamiento de vehículos con conductor se considera______.",
+    "respuestas": [
+      "a) transporte privado regular de viajeros.",
+      "b) transporte público regular de mercancías.",
+      "c) transporte público discrecional de viajeros.",
+      "d) transporte privado discrecional de mercancías."
+    ],
+    "correcta": "c) transporte público discrecional de viajeros."
+  },
+  {
+    "numero": 43,
+    "pregunta": "La Ley 13/2021 permite la realización de servicios de arrendamiento de vehículos con conductor fuera del ámbito territorial legalmente establecido sin restricciones.",
+    "respuestas": [
+      "a) Verdadero.",
+      "b) Solo en casos excepcionales.",
+      "c) No se menciona en la ley.",
+      "d) Falso."
+    ],
+    "correcta": "d) Falso."
+  },
+  {
+    "numero": 44,
+    "pregunta": "¿Qué se debe presentar para la solicitud de convalidación del permiso de conductor de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Una solicitud de convalidación por parte del interesado o su representante autorizado",
+      "b) Un certificado de últimas voluntades",
+      "c) Una foto de carné",
+      "d) Un justificante médico"
+    ],
+    "correcta": "a) Una solicitud de convalidación por parte del interesado o su representante autorizado"
+  },
+  {
+    "numero": 45,
+    "pregunta": "¿Qué datos deben constar en el Registro de conductores de vehículos de arrendamiento con conductor de la Comunidad de Madrid?",
+    "respuestas": [
+      "a) Solo nombre y apellido.",
+      "b) Solo número de permiso.",
+      "c) Nombre, apellido y sexo del titular del permiso, número de identificación fiscal, lugar y fecha de nacimiento, nacionalidad, domicilio, número de permiso de conductor y otras incidencias relacionadas con las autorizaciones administrativas.",
+      "d) Solo fecha de nacimiento."
+    ],
+    "correcta": "c) Nombre, apellido y sexo del titular del permiso, número de identificación fiscal, lugar y fecha de nacimiento, nacionalidad, domicilio, número de permiso de conductor y otras incidencias relacionadas con las autorizaciones administrativas."
+  },
+  {
+    "numero": 46,
+    "pregunta": "¿A qué está condicionada la obtención del permiso de conductor de vehículos de arrendamiento con conductor, entre otros requisitos?",
+    "respuestas": [
+      "a) A la superación de una prueba física.",
+      "b) A la presentación de una declaración jurada.",
+      "c) Al pago de la tasa de expedición.",
+      "d) Al cumplimiento de requisitos ambientales."
+    ],
+    "correcta": "c) Al pago de la tasa de expedición."
+  },
+  {
+    "numero": 47,
+    "pregunta": "¿Qué se otorgará una vez validado el cumplimiento de las condiciones para adquirir la condición de conductor de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Una licencia de taxi",
+      "b) Un permiso de conductor de vehículos de arrendamiento con conductor definitivo",
+      "c) Un certificado de antecedentes penales",
+      "d) Un distintivo de seguridad"
+    ],
+    "correcta": "b) Un permiso de conductor de vehículos de arrendamiento con conductor definitivo"
+  },
+  {
+    "numero": 48,
+    "pregunta": "¿Cuál es la vigencia del permiso de conductor de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Cinco años.",
+      "b) Dos años.",
+      "c) Un año.",
+      "d) Diez años."
+    ],
+    "correcta": "a) Cinco años."
+  },
+  {
+    "numero": 49,
+    "pregunta": "¿Qué debe hacer el titular del permiso de conductor de vehículos de arrendamiento con conductor transcurrido el periodo de vigencia de este?",
+    "respuestas": [
+      "a) Devolver el permiso.",
+      "b) Cambiar de vehículo.",
+      "c) Informar a la policía.",
+      "d) Solicitar su renovación."
+    ],
+    "correcta": "d) Solicitar su renovación."
+  },
+  {
+    "numero": 50,
+    "pregunta": "¿Qué documento se debe presentar para la renovación del permiso de conductor de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Una carta de recomendación",
+      "b) La documentación requerida y el justificante de pago de la tasa",
+      "c) Un certificado médico",
+      "d) Un informe policial"
+    ],
+    "correcta": "c) Un certificado médico"
+  },
+  {
+    "numero": 51,
+    "pregunta": "¿Qué se requiere para la expedición del permiso definitivo de conductor de vehículos de arrendamiento con conductor?",
+    "respuestas": [
+      "a) Presentar un certificado médico",
+      "b) Asistir a un curso de formación",
+      "c) Realizar una prueba adicional",
+      "d) Cumplir con las condiciones previstas en la normativa y pagar la tasa de expedición"
+    ],
+    "correcta": "d) Cumplir con las condiciones previstas en la normativa y pagar la tasa de expedición"
+  }
+]
