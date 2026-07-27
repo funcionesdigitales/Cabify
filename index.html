@@ -9,22 +9,22 @@
 <body>
     <div class="container">
         <header>
-            <h1>📚 Práctica VTC</h1>
-            <p>Examen de 60 preguntas al azar (15 por módulo). Cada respuesta correcta vale 1 punto.</p>
+            <h1>📚 Prueba VTC</h1>
+            <p>Examen de 60 preguntas</p>
         </header>
 
         <!-- Pantalla inicial -->
         <div id="start-screen" class="screen active">
             <div class="card">
                 <h2>¡Bienvenido!</h2>
-                <p>Se seleccionarán <strong>15 preguntas al azar de cada uno de los 4 módulos</strong>, para un total de 60 preguntas.</p>
+                <p>Se seleccionarán <strong>Una sola respuesta es correcta</strong>, 60 preguntas.</p>
                 <p class="time-info">⏱️ <strong>Tiempo disponible: 60 minutos</strong></p>
-                <div class="modulos-info">
+                <!--<div class="modulos-info">
                     <div class="modulo-badge" style="border-left-color: #667eea;">📖 Lengua Castellana: 15 preguntas</div>
                     <div class="modulo-badge" style="border-left-color: #28a745;">♿ Accesibilidad: 15 preguntas</div>
                     <div class="modulo-badge" style="border-left-color: #fd7e14;">🗺️ Medio Físico: 15 preguntas</div>
                     <div class="modulo-badge" style="border-left-color: #dc3545;">⚖️ Marco Jurídico: 15 preguntas</div>
-                </div>
+                </div>-->
                 <button id="start-btn" class="btn-primary">Comenzar Examen</button>
             </div>
         </div>
@@ -32,10 +32,10 @@
         <!-- Pantalla del examen -->
         <div id="quiz-screen" class="screen">
             <!-- Temporizador -->
-            <div class="timer-container">
+            <!--<div class="timer-container">
                 <div class="timer-label">⏱️ Tiempo restante:</div>
                 <div class="timer" id="timer">60:00</div>
-            </div>
+            </div> -->
             
             <div id="questions-container"></div>
             <button id="submit-btn" class="btn-primary btn-large">Finalizar y Ver Nota</button>
