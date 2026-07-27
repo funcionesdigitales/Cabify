@@ -5,8 +5,8 @@ let moduloMarcoJuridico = [];
 let quizQuestions = [];
 
 // Variables del temporizador
-let timerInterval = null;
-let timeLeft = 60 * 60; // 60 minutos en segundos
+//let timerInterval = null;
+//let timeLeft = 60 * 60; // 60 minutos en segundos
 
 // Función para normalizar preguntas (maneja el formato específico de tus JSON)
 function normalizarPregunta(q, nombreModulo, colorModulo, iconoModulo) {
@@ -70,43 +70,43 @@ const questionsContainer = document.getElementById('questions-container');
 const timerElement = document.getElementById('timer');
 
 // ====== FUNCIONES DEL TEMPORIZADOR ======
-function startTimer() {
-    timeLeft = 60 * 60;
-    updateTimerDisplay();
+//function startTimer() {
+    //timeLeft = 60 * 60;
+    //updateTimerDisplay();
     
-    timerInterval = setInterval(() => {
-        timeLeft--;
-        updateTimerDisplay();
+    //timerInterval = setInterval(() => {
+        //timeLeft--;
+        //updateTimerDisplay();
         
-        if (timeLeft <= 0) {
-            clearInterval(timerInterval);
-            alert('⏰ ¡Se acabó el tiempo! El examen se enviará automáticamente.');
-            submitQuiz();
-        }
-    }, 1000);
-}
+        //if (timeLeft <= 0) {
+        //    clearInterval(timerInterval);
+        //    alert('⏰ ¡Se acabó el tiempo! El examen se enviará automáticamente.');
+        //    submitQuiz();
+        //}
+    //}, 1000);
+//}
 
-function stopTimer() {
-    if (timerInterval) {
-        clearInterval(timerInterval);
-        timerInterval = null;
-    }
-}
+//function stopTimer() {
+    //if (timerInterval) {
+        //clearInterval(timerInterval);
+        //timerInterval = null;
+    //}
+//}
 
-function updateTimerDisplay() {
-    const minutes = Math.floor(timeLeft / 60);
-    const seconds = timeLeft % 60;
-    const display = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
-    timerElement.textContent = display;
-    
-    timerElement.classList.remove('warning', 'danger');
-    
-    if (timeLeft <= 300) { // Menos de 5 minutos
-        timerElement.classList.add('danger');
-    } else if (timeLeft <= 600) { // Menos de 10 minutos
-        timerElement.classList.add('warning');
-    }
-}
+//function updateTimerDisplay() {
+//    const minutes = Math.floor(timeLeft / 60);
+//    const seconds = timeLeft % 60;
+//    const display = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+//    timerElement.textContent = display;
+//    
+//    timerElement.classList.remove('warning', 'danger');
+//    
+//    if (timeLeft <= 300) { // Menos de 5 minutos
+//        timerElement.classList.add('danger');
+//    } else if (timeLeft <= 600) { // Menos de 10 minutos
+//        timerElement.classList.add('warning');
+//    }
+//}
 
 // ====== NAVEGACIÓN ENTRE PANTALLAS ======
 function showScreen(screen) {
@@ -143,7 +143,7 @@ startBtn.addEventListener('click', () => {
     quizQuestions = shuffle([...q1, ...q2, ...q3, ...q4]);
     
     renderQuestions();
-    startTimer();
+    //startTimer();
     showScreen(quizScreen);
 });
 
@@ -166,9 +166,7 @@ function renderQuestions() {
         });
         
         card.innerHTML = `
-            <div class="modulo-tag" style="background: ${q.color};">
-                ${q.icono} ${q.modulo}
-            </div>
+
             <h3>${index + 1}. ${q.pregunta}</h3>
             ${optionsHTML}
         `;
@@ -178,7 +176,7 @@ function renderQuestions() {
 
 // ====== CALCULAR NOTA ======
 function submitQuiz() {
-    stopTimer();
+    //stopTimer();
     
     let score = 0;
     let reviewHTML = '';
@@ -209,9 +207,7 @@ function submitQuiz() {
         
         reviewHTML += `
             <div class="review-item ${isCorrect ? 'correct' : 'incorrect'}" style="border-left-color: ${q.color};">
-                <div class="modulo-tag-small" style="background: ${q.color}20; color: ${q.color};">
-                    ${q.icono} ${q.modulo}
-                </div>
+
                 <h4>${index + 1}. ${q.pregunta}</h4>
                 <p>Tu respuesta: <span class="${isCorrect ? 'correct-answer' : 'your-answer'}">${userText}</span></p>
                 ${!isCorrect ? `<p>Respuesta correcta: <span class="correct-answer">${correctText}</span></p>` : ''}
@@ -268,5 +264,5 @@ submitBtn.addEventListener('click', () => {
 
 // Reintentar
 retryBtn.addEventListener('click', () => {
-    showScreen(startScreen);
+    //showScreen(startScreen);
 });
