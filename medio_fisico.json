@@ -548,5 +548,203 @@
 "d) Solo a vehículos diésel."
 ],
 "correcta": "c) Verdadero."
-}
+},
+{
+    "numero ": 51,
+    "pregunta ": "¿Qué debe hacer un conductor si su vehículo no tiene la etiqueta ambiental requerida para ingresar a una Zona de Bajas Emisiones (ZBE)?",
+    "respuestas ": [
+      "a) Desconectar el sistema de navegación.",
+      "b) Incrementar la velocidad para entrar rápidamente.",
+      "c) Buscar rutas alternativas fuera de la ZBE.",
+      "d) Encender las luces de emergencia."
+    ],
+    "correcta ": "c) Buscar rutas alternativas fuera de la ZBE."
+  },
+  {
+    "numero ": 52,
+    "pregunta ": "¿Cómo configuras la pantalla dividida en el GPS?",
+    "respuestas ": [
+      "a) Usando dos dispositivos.",
+      "b) No se puede configurar la pantalla dividida.",
+      "c) Solicitando asistencia técnica.",
+      "d) Activando la pantalla dividida en el menú de configuración del GPS."
+    ],
+    "correcta ": "d) Activando la pantalla dividida en el menú de configuración del GPS."
+  },
+  {
+    "numero ": 53,
+    "pregunta ": "¿Qué distintivo medioambiental se otorga a los vehículos eléctricos?",
+    "respuestas ": [
+      "a) Eco.",
+      "b) B.",
+      "c) C.",
+      "d) Cero emisiones."
+    ],
+    "correcta ": "d) Cero emisiones."
+  },
+  {
+    "numero ": 54,
+    "pregunta ": "¿Dónde está situado el campo de fútbol oficial del equipo del Rayo Vallecano de Madrid?",
+    "respuestas ": [
+      "a) En la Avenida de Monforte de Lemos.",
+      "b) En la Avenida de Juan Pablo II.",
+      "c) En la Avenida de la Albufera.",
+      "d) En el Paseo de la Castellana."
+    ],
+    "correcta ": "b) En la Avenida de Juan Pablo II."
+  },
+  {
+    "numero ": 55,
+    "pregunta ": "¿Qué estación de tren principal podemos encontrar en la Glorieta de Carlos V?",
+    "respuestas ": [
+      "a) La estación de Chamartín.",
+      "b) La estación de Atocha.",
+      "c) La estación de Sol.",
+      "d) La estación de Príncipe Pío."
+    ],
+    "correcta ": "b) La estación de Atocha."
+  },
+  {
+    "numero ": 56,
+    "pregunta ": "El distintivo Cero emisiones es de color azul y lo determina la DGT, y permite a los vehículos eléctricos puros circular en una Zona de Bajas Emisiones (ZBE).",
+    "respuestas ": [
+      "a) FALSO.",
+      "b) Y estacionar de modo gratuito, así como acceder al BUS-VAO.",
+      "c) VERDADERO.",
+      "d) Solo B y C son ciertas."
+    ],
+    "correcta ": "d) Solo B y C son ciertas."
+  },
+  {
+    "numero ": 57,
+    "pregunta ": "¿Dónde podemos encontrar el Real Jardín Botánico?",
+    "respuestas ": [
+      "a) En el parque del Retiro.",
+      "b) En la Casa de Campo.",
+      "c) En el Palacio Real.",
+      "d) En el Palacio del Pardo."
+    ],
+    "correcta ": "d) En el Palacio del Pardo."
+  },
+  {
+    "numero ": 58,
+    "pregunta ": "Si un GPS está dando indicaciones con desfase respecto a la posición real del vehículo, ¿cuál podría ser una causa técnica?",
+    "respuestas ": [
+      "a) Baja tasa de actualización del receptor",
+      "b) Mala conexión Bluetooth",
+      "c) Alta velocidad",
+      "d) Uso de cargador de baja calidad"
+    ],
+    "correcta ": "a) Baja tasa de actualización del receptor"
+  },
+  {
+    "numero ": 59,
+    "pregunta ": "El Puente de Arganzuela une peatonalmente, prácticamente, las calles de:",
+    "respuestas ": [
+      "a) Paseo de Yeserías y la Calle de Antonio López.",
+      "b) Paseo de Yeserías y la Calle de Amaniel.",
+      "c) La Calle de Antonio López y la Calle del General Ricardos.",
+      "d) La Calle Mayor y la Calle del Arenal."
+    ],
+    "correcta ": "d) La Calle Mayor y la Calle del Arenal."
+  },
+  {
+    "numero ": 60,
+    "pregunta ": "Buitrago del Lozoya es un municipio de Madrid situado...",
+    "respuestas ": [
+      "a) al norte de la Comunidad de Madrid.",
+      "b) al este de la Comunidad de Madrid.",
+      "c) al oeste de la Comunidad de Madrid.",
+      "d) al sur de la Comunidad de Madrid."
+    ],
+    "correcta ": "d) al sur de la Comunidad de Madrid."
+  },
+  {
+    "numero ": 61,
+    "pregunta ": "¿Cuál es una ventaja de utilizar GPS con tráfico en tiempo real?",
+    "respuestas ": [
+      "a) Reproduce música mientras conduces",
+      "b) Aumenta el consumo de batería",
+      "c) Permite evitar atascos y ahorrar tiempo",
+      "d) Funciona sin conexión a internet"
+    ],
+    "correcta ": "c) Permite evitar atascos y ahorrar tiempo"
+  },
+  {
+    "numero ": 62,
+    "pregunta ": "¿Qué famosa calle es conocida por sus librerías antiguas y puestos de libros, especialmente los domingos?",
+    "respuestas ": [
+      "a) La Calle de Goya.",
+      "b) La Cuesta de Moyano.",
+      "c) La Calle de Huertas.",
+      "d) La Calle de la Pasa."
+    ],
+    "correcta ": "b) La Cuesta de Moyano."
+  },
+  {
+    "numero ": 63,
+    "pregunta ": "¿Qué edificio famoso, con una cúpula de cristal y una estatua de ángel en lo alto, está en el cruce de la Gran Vía y de la Calle de Alcalá?",
+    "respuestas ": [
+      "a) Edificio Telefónica",
+      "b) Edificio España",
+      "c) Edificio Metrópolis",
+      "d) Edificio del Banco de España"
+    ],
+    "correcta ": "c) Edificio Metrópolis"
+  },
+  {
+    "numero ": 64,
+    "pregunta ": "El aeródromo de Cuatro Vientos, ¿dónde se encuentra situado?",
+    "respuestas ": [
+      "a) Al norte de Madrid centro.",
+      "b) Junto al aeropuerto de Madrid Barajas-Adolfo Suárez.",
+      "c) Al norte de la Comunidad de Madrid.",
+      "d) Al suroeste de Madrid centro."
+    ],
+    "correcta ": "d) Al suroeste de Madrid centro."
+  },
+  {
+    "numero ": 65,
+    "pregunta ": "¿Dónde comienza la numeración de la mayoría de las calles de Madrid, según la normativa establecida en 1835?",
+    "respuestas ": [
+      "a) En la Plaza de Cibeles.",
+      "b) En la Plaza Mayor.",
+      "c) En la Plaza de España.",
+      "d) En la Puerta del Sol."
+    ],
+    "correcta ": "d) En la Puerta del Sol."
+  },
+  {
+    "numero ": 66,
+    "pregunta ": "¿Dónde se encuentra ubicada la academia de suboficiales de la Guardia Civil en Madrid?",
+    "respuestas ": [
+      "a) En Aranjuez.",
+      "b) En San Lorenzo del Escorial.",
+      "c) En Rascafría.",
+      "d) En Torrejón de Ardoz."
+    ],
+    "correcta ": "a) En Aranjuez."
+  },
+  {
+    "numero ": 67,
+    "pregunta ": "La Gran Vía conecta principalmente dos zonas de la capital. ¿Cuáles son?",
+    "respuestas ": [
+      "a) Plaza de España y Plaza de Cibeles",
+      "b) Barrio de Salamanca y Argüelles",
+      "c) Puerta del Sol y Plaza de España",
+      "d) Calle de Alcalá y Calle Mayor"
+    ],
+    "correcta ": "a) Plaza de España y Plaza de Cibeles"
+  },
+  {
+    "numero ": 68,
+    "pregunta ": "La Universidad Pontificia de Salamanca en Madrid, ¿en qué dirección se encuentra ubicada de las que se citan?",
+    "respuestas ": [
+      "a) En el Paseo de Juan XXIII.",
+      "b) En la Avenida Complutense.",
+      "c) En el campus universitario de Cantoblanco.",
+      "d) En la calle de Salamanca."
+    ],
+    "correcta ": "b) En la Avenida Complutense."
+  }
 ]

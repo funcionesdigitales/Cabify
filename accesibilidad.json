@@ -559,5 +559,203 @@
       "d) Ofrecer asistencia para cargar y descargar el cochecito y asegurar que el bebé esté bien sujeto."
     ],
     "correcta": "d) Ofrecer asistencia para cargar y descargar el cochecito y asegurar que el bebé esté bien sujeto."
+  },
+  {
+    "numero ": 52,
+    "pregunta ": "¿Qué debemos hacer si un pasajero, tras un accidente, tiene una herida en el pie y presenta una fractura?",
+    "respuestas ": [
+      "a) Intentar recolocar el hueso en su lugar",
+      "b) Inmovilizar la extremidad afectada sin intentar recolocar el hueso.",
+      "c) Mover al herido para que esté más cómodo",
+      "d) Darle algo de comer para que recupere fuerzas."
+    ],
+    "correcta ": "b) Inmovilizar la extremidad afectada sin intentar recolocar el hueso."
+  },
+  {
+    "numero ": 53,
+    "pregunta ": "¿Por qué es importante que un conductor conozca las condiciones del tráfico en tiempo real?",
+    "respuestas ": [
+      "a) Para aumentar el tiempo de viaje.",
+      "b) Para evitar el uso de herramientas de navegación.",
+      "c) Para evitar retrasos y ofrecer un servicio eficiente.",
+      "d) Para reducir la interacción con el cliente."
+    ],
+    "correcta ": "c) Para evitar retrasos y ofrecer un servicio eficiente."
+  },
+  {
+    "numero ": 54,
+    "pregunta ": "¿Cómo debemos actuar si un pasajero tiene una herida en el cuello y presenta una quemadura química?",
+    "respuestas ": [
+      "a) Enjuagar la zona afectada con abundante agua durante al menos 20 minutos.",
+      "b) Aplicar pomada o crema sobre la quemadura.",
+      "c) Cubrir la quemadura con un vendaje apretado.",
+      "d) Darle algo de beber para calmarlo."
+    ],
+    "correcta ": "a) Enjuagar la zona afectada con abundante agua durante al menos 20 minutos."
+  },
+  {
+    "numero ": 55,
+    "pregunta ": "¿Qué debemos evaluar al examinar el tórax de un pasajero que se encuentra en un estado de emergencia?",
+    "respuestas ": [
+      "a) La temperatura corporal.",
+      "b) La presión arterial.",
+      "c) El estado emocional.",
+      "d) La simetría y movimientos respiratorios."
+    ],
+    "correcta ": "d) La simetría y movimientos respiratorios."
+  },
+  {
+    "numero ": 56,
+    "pregunta ": "¿Qué se recomienda para la atención a personas mayores durante el viaje?",
+    "respuestas ": [
+      "a) Proporcionar asistencia para entrar y salir del vehículo.",
+      "b) Ofrecer descuentos en tarifas.",
+      "c) Proporcionar mantas.",
+      "d) Instalar sistemas de entretenimiento."
+    ],
+    "correcta ": "a) Proporcionar asistencia para entrar y salir del vehículo."
+  },
+  {
+    "numero ": 57,
+    "pregunta ": "¿Qué hacer ante vómitos repetidos y preocupantes de un pasajero?",
+    "respuestas ": [
+      "a) Continuar el viaje",
+      "b) Darle agua para beber",
+      "c) Ignorarlo y continuar",
+      "d) Detener el vehículo y avisar a emergencias"
+    ],
+    "correcta ": "d) Detener el vehículo y avisar a emergencias"
+  },
+  {
+    "numero ": 58,
+    "pregunta ": "¿El conductor debe respetar el espacio personal durante la salida?",
+    "respuestas ": [
+      "a) Solo a veces",
+      "b) Sí",
+      "c) No",
+      "d) No importa"
+    ],
+    "correcta ": "b) Sí"
+  },
+  {
+    "numero ": 59,
+    "pregunta ": "Si un pasajero presenta hipoglucemia y está consciente, ¿qué debe hacer el conductor?",
+    "respuestas ": [
+      "a) No debe hacer nada",
+      "b) Darle algo con azúcar",
+      "c) Acostarlo en el suelo boca abajo",
+      "d) Darle agua fría rápidamente"
+    ],
+    "correcta ": "b) Darle algo con azúcar"
+  },
+  {
+    "numero ": 60,
+    "pregunta ": "¿Los asideros funcionales facilitan el acceso?",
+    "respuestas ": [
+      "a) Sí",
+      "b) Solo los situados delante",
+      "c) No",
+      "d) No, no influyen"
+    ],
+    "correcta ": "a) Sí"
+  },
+  {
+    "numero ": 61,
+    "pregunta ": "¿Qué se entiende por accesibilidad universal en el contexto de los vehículos de arrendamiento con conductor, según el Real Decreto Legislativo 1/2013, por el que se aprueba la Ley General de derechos de las personas con discapacidad?",
+    "respuestas ": [
+      "a) El diseño de vehículos y servicios para ser utilizados por todas las personas.",
+      "b) La adaptación de vehículos antiguos.",
+      "c) La creación de rampas en todos los vehículos.",
+      "d) La eliminación de barreras arquitectónicas únicamente."
+    ],
+    "correcta ": "a) El diseño de vehículos y servicios para ser utilizados por todas las personas."
+  },
+  {
+    "numero ": 62,
+    "pregunta ": "¿La accesibilidad favorece la autonomía personal?",
+    "respuestas ": [
+      "a) No",
+      "b) Sí",
+      "c) Nunca influye, de hecho es al contrario",
+      "d) No influye"
+    ],
+    "correcta ": "b) Sí"
+  },
+  {
+    "numero ": 63,
+    "pregunta ": "¿El conductor debe despedirse de forma clara y audible si es necesario?",
+    "respuestas ": [
+      "a) No",
+      "b) No importa",
+      "c) Solo a veces",
+      "d) Sí"
+    ],
+    "correcta ": "d) Sí"
+  },
+  {
+    "numero ": 64,
+    "pregunta ": "¿La accesibilidad también protege frente a caídas?",
+    "respuestas ": [
+      "a) No influye",
+      "b) Sí",
+      "c) Solo en rampas",
+      "d) No"
+    ],
+    "correcta ": "b) Sí"
+  },
+  {
+    "numero ": 65,
+    "pregunta ": "¿El conductor debe avisar antes de finalizar el trayecto?",
+    "respuestas ": [
+      "a) Sí",
+      "b) Solo a veces",
+      "c) No",
+      "d) No importa"
+    ],
+    "correcta ": "b) Solo a veces"
+  },
+  {
+    "numero ": 66,
+    "pregunta ": "Cuando un cliente accede al vehículo con un perro guía, ¿qué es lo que debe evitar hacer el conductor con el animal?",
+    "respuestas ": [
+      "a) Jugar con el perro para distraerlo mientras está conduciendo.",
+      "b) Permitir que el perro entre en el vehículo.",
+      "c) Asegurarse de que el perro esté cómodo.",
+      "d) Proporcionar agua al perro antes de comenzar a conducir."
+    ],
+    "correcta ": "a) Jugar con el perro para distraerlo mientras está conduciendo."
+  },
+  {
+    "numero ": 67,
+    "pregunta ": "En el supuesto de tener que atender a unos heridos en un accidente de tráfico, ¿hacia qué heridos debe priorizar su atención?",
+    "respuestas ": [
+      "a) Hacia los heridos que gritan y manifiestan su dolor",
+      "b) Hacia los heridos que están callados, con aspecto de inconsciencia",
+      "c) Hacia los heridos que tengan hemorragias nasales",
+      "d) Hacia los heridos que tosen"
+    ],
+    "correcta ": "b) Hacia los heridos que están callados, con aspecto de inconsciencia"
+  },
+  {
+    "numero ": 68,
+    "pregunta ": "¿Cuál debe ser el comportamiento del conductor VTC si tiene que auxiliar en un accidente y comprueba que hay una persona que no respira y no tiene pulso?",
+    "respuestas ": [
+      "a) Debe comenzar, inmediatamente, una reanimación RCP.",
+      "b) Debe poner al herido en posición lateral de seguridad (PLS)",
+      "c) Debe ponerlo en posición antishock.",
+      "d) Debe darle unas palmadas en la cara para que recupere el sentido."
+    ],
+    "correcta ": "a) Debe comenzar, inmediatamente, una reanimación RCP."
+  },
+  {
+    "numero ": 69,
+    "pregunta ": "Conocer las principales calles y vías de una ciudad y los destinos más frecuentes que los viajeros solicitan, ¿en qué es beneficioso?",
+    "respuestas ": [
+      "a) Realmente en nada pero es interesante conocer bien la ciudad donde se trabaja.",
+      "b) Aumenta el tiempo del viaje.",
+      "c) Mejora los trayectos aunque se reduce el número de clientes.",
+      "d) Mejora la eficiencia de los trayectos y el cliente está más satisfecho."
+    ],
+    "correcta ": "d) Mejora la eficiencia de los trayectos y el cliente está más satisfecho."
   }
 ]

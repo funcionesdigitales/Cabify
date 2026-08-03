@@ -548,5 +548,137 @@
       "d) Algodón."
     ],
     "correcta": "c) Carbón."
+  },
+  {
+    "numero ": 51,
+    "pregunta ": "... es a árbol como flor es a ...",
+    "respuestas ": [
+      "a) Raíz - Planta.",
+      "b) Pistola - Disparar.",
+      "c) Goleador - Fútbol.",
+      "d) Caballo - Vaquero."
+    ],
+    "correcta ": "b) Pistola - Disparar."
+  },
+  {
+    "numero ": 52,
+    "pregunta ": "El cliente indicó que su equipaje era más ... que el permitido.",
+    "respuestas ": [
+      "a) grandeza",
+      "b) grandísimo",
+      "c) grande",
+      "d) gran"
+    ],
+    "correcta ": "a) grandeza"
+  },
+  {
+    "numero ": 53,
+    "pregunta ": "Si necesita un taxi, puede ... desde la aplicación.",
+    "respuestas ": [
+      "a) solicitando",
+      "b) solicito",
+      "c) solicitario",
+      "d) solicitar"
+    ],
+    "correcta ": "c) solicitario"
+  },
+  {
+    "numero ": 54,
+    "pregunta ": "En circulación, \"retención\" significa:",
+    "respuestas ": [
+      "a) Acumulación de vehículos que avanza lentamente",
+      "b) Vía cerrada",
+      "c) Señal temporal",
+      "d) Cambio de sentido"
+    ],
+    "correcta ": "a) Acumulación de vehículos que avanza lentamente"
+  },
+  {
+    "numero ": 55,
+    "pregunta ": "Empeorar algo que ya estaba mal.",
+    "respuestas ": [
+      "a) Llover con sol",
+      "b) Llover de lado",
+      "c) Llover sobre mojado",
+      "d) Llover a cántaros"
+    ],
+    "correcta ": "c) Llover sobre mojado"
+  },
+  {
+    "numero ": 56,
+    "pregunta ": "¿Cuál de las siguientes definiciones corresponde a licencia de conducir?",
+    "respuestas ": [
+      "a) Permiso oficial que solo habilita para conducir camiones y en situaciones muy especiales",
+      "b) Autorización administrativa para comprar un vehículo",
+      "c) Autorización que se obtiene sin necesidad de prueba o examen",
+      "d) Permiso oficial que autoriza para conducir un vehículo por la vía pública"
+    ],
+    "correcta ": "d) Permiso oficial que autoriza para conducir un vehículo por la vía pública"
+  },
+  {
+    "numero ": 57,
+    "pregunta ": "Más vale maña que ...",
+    "respuestas ": [
+      "a) Prisa",
+      "b) fuerza",
+      "c) suerte",
+      "d) poder"
+    ],
+    "correcta ": "a) Prisa"
+  },
+  {
+    "numero ": 58,
+    "pregunta ": "Aunque la calle ... estrecha, se puede pasar con cuidado.",
+    "respuestas ": [
+      "a) ser",
+      "b) sea",
+      "c) será",
+      "d) siendo"
+    ],
+    "correcta ": "b) sea"
+  },
+  {
+    "numero ": 59,
+    "pregunta ": "La palabra \"indicaciones\" se refiere a:",
+    "respuestas ": [
+      "a) Sugerencias",
+      "b) Instrucciones o señas",
+      "c) Prohibiciones",
+      "d) Quejas"
+    ],
+    "correcta ": "b) Instrucciones o señas"
+  },
+  {
+    "numero ": 60,
+    "pregunta ": "El conductor indicó que el sistema de climatización ... revisado la semana anterior.",
+    "respuestas ": [
+      "a) habrá sido",
+      "b) siendo",
+      "c) había sido",
+      "d) hubiera sido"
+    ],
+    "correcta ": "c) había sido"
+  },
+  {
+    "numero ": 61,
+    "pregunta ": "La palabra \"contumaz\" en \"infractor contumaz\" significa:",
+    "respuestas ": [
+      "a) Reincidente y obstinado",
+      "b) Torpe y casual",
+      "c) Arrepentido y puntual",
+      "d) Único y aislado"
+    ],
+    "correcta ": "a) Reincidente y obstinado"
+  },
+  {
+    "numero ": 62,
+    "pregunta ": "El cliente, cuyo equipaje estaba dañado, solicitó que se lo cambiara por otro, ... que no estaba en mi mano hacerlo.",
+    "respuestas ": [
+      "a) por más que",
+      "b) aun cuando",
+      "c) aunque",
+      "d) a pesar de"
+    ],
+    "correcta ": "c) aunque"
   }
 ]

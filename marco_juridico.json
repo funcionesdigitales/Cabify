@@ -559,5 +559,137 @@
       "d) Cumplir con las condiciones previstas en la normativa y pagar la tasa de expedición"
     ],
     "correcta": "d) Cumplir con las condiciones previstas en la normativa y pagar la tasa de expedición"
+  },
+  {
+    "numero ": 52,
+    "pregunta ": "¿Es obligatoria la hoja de ruta o registro de servicios para cada servicio VTC?",
+    "respuestas ": [
+      "a) No, solo para viajes largos",
+      "b) Sí, es obligatoria",
+      "c) Solo si el cliente lo pide",
+      "d) Solo si se usa pago en efectivo"
+    ],
+    "correcta ": "b) Sí, es obligatoria"
+  },
+  {
+    "numero ": 53,
+    "pregunta ": "Señala la respuesta correcta.",
+    "respuestas ": [
+      "a) Los conductores de vehículos de arrendamiento con conductor solo deben conocer las calles de su barrio.",
+      "b) Los conductores de vehículos de arrendamiento con conductor no necesitan conocer las calles de Madrid, ya que puede depender totalmente de los sistemas de navegación.",
+      "c) Los conductores de vehículos de arrendamiento con conductor deben conocer las principales calles y avenidas de la Comunidad de Madrid.",
+      "d) Los conductores de vehículos de arrendamiento con conductor deben conocer solo los destinos turísticos de Madrid."
+    ],
+    "correcta ": "c) Los conductores de vehículos de arrendamiento con conductor deben conocer las principales calles y avenidas de la Comunidad de Madrid."
+  },
+  {
+    "numero ": 54,
+    "pregunta ": "¿Qué ocurre si un conductor VTC acumula varias sanciones graves en un corto periodo de tiempo?",
+    "respuestas ": [
+      "a) Retirada del permiso VTC",
+      "b) Multa económica únicamente",
+      "c) Clases de reeducación vial",
+      "d) Suspensión temporal del permiso VTC"
+    ],
+    "correcta ": "d) Suspensión temporal del permiso VTC"
+  },
+  {
+    "numero ": 55,
+    "pregunta ": "Según el Decreto 101/2016, los distintivos identificativos deben colocarse:",
+    "respuestas ": [
+      "a) [texto ilegible en el original]",
+      "b) En la parte superior derecha de la luna delantera y en la parte inferior izquierda de la luna trasera del vehículo.",
+      "c) En el techo del vehículo.",
+      "d) En las puertas del vehículo."
+    ],
+    "correcta ": "b) En la parte superior derecha de la luna delantera y en la parte inferior izquierda de la luna trasera del vehículo."
+  },
+  {
+    "numero ": 56,
+    "pregunta ": "¿Es obligatorio que el conductor VTC sepa cómo gestionar un incendio leve en el vehículo con el extintor?",
+    "respuestas ": [
+      "a) No, eso es para bomberos",
+      "b) Sí, es parte del conocimiento de seguridad",
+      "c) Solo si tiene formación específica",
+      "d) No es necesario"
+    ],
+    "correcta ": "b) Sí, es parte del conocimiento de seguridad"
+  },
+  {
+    "numero ": 57,
+    "pregunta ": "¿Se considera infracción grave no llevar a bordo la copia del contrato de arrendamiento (hoja de ruta) en papel o formato digital?",
+    "respuestas ": [
+      "a) No, es leve",
+      "b) Sí, es grave",
+      "c) No es obligatorio",
+      "d) Solo si lo pide el cliente"
+    ],
+    "correcta ": "b) Sí, es grave"
+  },
+  {
+    "numero ": 58,
+    "pregunta ": "En el nuevo Catálogo de Señales desaparecen algunas señales de tráfico por haberse quedado obsoletas. ¿Qué plazo otorga la ley para su retirada definitiva?",
+    "respuestas ": [
+      "a) En el nuevo Catálogo de Señales aparecen señales nuevas, pero no hay señales obsoletas.",
+      "b) En el nuevo Catálogo de Señales aparecen señales nuevas, y otras que sustituyen a señales que han quedado desfasadas por el paso del tiempo.",
+      "c) En el nuevo Catálogo solo se recogen señales que modernizan a otras que se han quedado desfasadas.",
+      "d) En el nuevo Catálogo de Señales aparecen señales nuevas, y otras que sustituyen a señales que han quedado desfasadas por el paso del tiempo, y habrá un periodo de convivencia de un año hasta la retirada de las señales suprimidas."
+    ],
+    "correcta ": "d) En el nuevo Catálogo de Señales aparecen señales nuevas, y otras que sustituyen a señales que han quedado desfasadas por el paso del tiempo, y habrá un periodo de convivencia de un año hasta la retirada de las señales suprimidas."
+  },
+  {
+    "numero ": 59,
+    "pregunta ": "Además de otros requisitos, ¿qué necesito para ser conductor de vehículos de arrendamiento con conductor VTC en Madrid?",
+    "respuestas ": [
+      "a) Tener el máximo de puntos del permiso de conducción (15)",
+      "b) No padecer enfermedad infectocontagiosa o impedimento físico o psíquico que imposibilite o dificulte el normal ejercicio de la profesión, ni ser consumidor habitual de estupefacientes o de bebidas alcohólicas.",
+      "c) Tener Permiso de conducir clase B (al menos cinco años de antigüedad)",
+      "d) Hablar varios idiomas."
+    ],
+    "correcta ": "b) No padecer enfermedad infectocontagiosa o impedimento físico o psíquico que imposibilite o dificulte el normal ejercicio de la profesión, ni ser consumidor habitual de estupefacientes o de bebidas alcohólicas."
+  },
+  {
+    "numero ": 60,
+    "pregunta ": "¿Cuál es la multa aproximada por una infracción muy grave relacionada con el VTC sin autorización?",
+    "respuestas ": [
+      "a) 100-500 €",
+      "b) 2.001-6.000 €",
+      "c) 6.001-18.000 €",
+      "d) Más de 18.000 €"
+    ],
+    "correcta ": "c) 6.001-18.000 €"
+  },
+  {
+    "numero ": 61,
+    "pregunta ": "¿Qué tipo de extintor es obligatorio llevar en el VTC?",
+    "respuestas ": [
+      "a) De agua",
+      "b) De CO2",
+      "c) De polvo ABC de mínimo 2 kg",
+      "d) No es obligatorio llevar extintor"
+    ],
+    "correcta ": "c) De polvo ABC de mínimo 2 kg"
+  },
+  {
+    "numero ": 62,
+    "pregunta ": "Durante el desarrollo de un servicio contratado por plaza con pago individual se cumplirán, entre otras, las siguientes condiciones:",
+    "respuestas ": [
+      "a) No se admitirán paradas intermedias, en ningún caso.",
+      "b) Se podrá abandonar el vehículo antes de llegar al punto de destino indicado pero no supondrá la finalización del servicio.",
+      "c) El itinerario será el que el usuario diga, sea o no el más adecuado.",
+      "d) El itinerario será el más directo o adecuado entre el inicio y el final del trayecto principal."
+    ],
+    "correcta ": "d) El itinerario será el más directo o adecuado entre el inicio y el final del trayecto principal."
+  },
+  {
+    "numero ": 63,
+    "pregunta ": "¿Quiénes están obligados a obtener el Permiso de Conductor VTC?",
+    "respuestas ": [
+      "a) Todos los conductores de VTC",
+      "b) Solo los conductores nuevos",
+      "c) Solo los conductores extranjeros",
+      "d) Solo los autónomos"
+    ],
+    "correcta ": "a) Todos los conductores de VTC"
   }
 ]
