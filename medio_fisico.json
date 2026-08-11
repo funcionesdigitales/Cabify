@@ -746,5 +746,203 @@
       "d) En la calle de Salamanca."
     ],
     "correcta ": "b) En la Avenida Complutense."
-  }
+  },
+{
+ "numero ": 69,
+ "pregunta ": "¿En qué municipio de la Comunidad de Madrid se encuentra el Polígono Cobo Calleja?",
+ "respuestas ": [
+ "a) Fuenlabrada",
+ "b) Alcalá de Henares",
+ "c) Parla",
+ "d) Guadarrama"
+],
+ "correcta ": "a) Fuenlabrada"
+},
+{
+ "numero ": 70,
+ "pregunta ": "¿Qué rol tienen las estaciones de carga en las Zonas de Bajas Emisiones (ZBE)?",
+ "respuestas ": [
+ "a) Aumentar el uso de combustibles fósiles.",
+ "b) Reducir la infraestructura para bicicletas.",
+ "c) Facilitar el uso de vehículos eléctricos.",
+ "d) Incrementar la contaminación."
+],
+ "correcta ": "c) Facilitar el uso de vehículos eléctricos."
+},
+{
+ "numero ": 71,
+ "pregunta ": "La estación de metro de Gran Vía conecta con varias líneas de tren de cercanías.",
+ "respuestas ": [
+ "a) VERDADERO",
+ "b) FALSO",
+ "c) Conecta solo con líneas de autobuses.",
+ "d) No tiene conexión."
+],
+ "correcta ": "b) FALSO"
+},
+{
+ "numero ": 72,
+ "pregunta ": "¿Dónde se encuentra el pabellón del Movistar Arena? (antiguo WiZink Center)",
+ "respuestas ": [
+ "a) En la Plaza de Felipe II.",
+ "b) En la Calle de Santa Engracia.",
+ "c) En la Avenida de Daroca.",
+ "d) En la Plaza de la Independencia."
+],
+ "correcta ": "a) En la Plaza de Felipe II."
+},
+{
+ "numero ": 73,
+ "pregunta ": "¿Cómo configuras una ruta alternativa en el GPS?",
+ "respuestas ": [
+ "a) Seleccionando la opción de rutas alternativas en el menú.",
+ "b) Cambiando de dispositivo.",
+ "c) Reiniciando el GPS.",
+ "d) Solicitando asistencia técnica."
+],
+ "correcta ": "a) Seleccionando la opción de rutas alternativas en el menú."
+},
+{
+ "numero ": 74,
+ "pregunta ": "¿Por qué es importante utilizar comandos de voz en aplicaciones GPS?",
+ "respuestas ": [
+ "a) Porque recibir indicaciones por voz sin tener que mirar la pantalla aporta seguridad a la conducción.",
+ "b) Porque mirar la pantalla es una infracción.",
+ "c) Porque las indicaciones por voz son más precisas.",
+ "d) Porque permite recibir indicaciones sin tener que mirar la pantalla."
+],
+ "correcta ": "a) Porque recibir indicaciones por voz sin tener que mirar la pantalla aporta seguridad a la conducción."
+},
+{
+ "numero ": 75,
+ "pregunta ": "De las calles que se indican a continuación, ¿cuál de ellas llega hasta la Plaza [texto ilegible]?",
+ "respuestas ": [
+ "a) La Calle de la Fuente Carrantona.",
+ "b) La Avenida de los Arcentales.",
+ "c) La Calle de Francisco Largo Caballero.",
+ "d) La Calle de Braulio Gutiérrez."
+],
+ "correcta ": "a) La Calle de la Fuente Carrantona."
+},
+{
+ "numero ": 76,
+ "pregunta ": "[Texto ilegible] deberá utilizarse...",
+ "respuestas ": [
+ "a) La carretera M-605.",
+ "b) La carretera de circunvalación M-50.",
+ "c) La carretera A-1.",
+ "d) La carretera M-402."
+],
+ "correcta ": "a) La carretera M-605."
+},
+{
+ "numero ": 77,
+ "pregunta ": "¿Qué se puede visitar en el Matadero de Madrid?",
+ "respuestas ": [
+ "a) Un museo taurino.",
+ "b) Un centro de arte contemporáneo y cultural.",
+ "c) Un mercado de carne.",
+ "d) Un polideportivo."
+],
+ "correcta ": "b) Un centro de arte contemporáneo y cultural."
+},
+{
+ "numero ": 78,
+ "pregunta ": "¿Qué lugar en Madrid es famoso por ser la sede del Ballet Nacional de España?",
+ "respuestas ": [
+ "a) Teatro Real.",
+ "b) Teatro Maravillas.",
+ "c) Teatro de la Zarzuela.",
+ "d) Teatros del Canal."
+],
+ "correcta ": "c) Teatro de la Zarzuela."
+},
+{
+ "numero ": 79,
+ "pregunta ": "¿Qué función principal tiene el GPS en un vehículo VTC?",
+ "respuestas ": [
+ "a) Calcular la velocidad máxima del coche.",
+ "b) Detectar fallos mecánicos.",
+ "c) Mostrar rutas y ubicaciones en tiempo real.",
+ "d) Medir la presión de los neumáticos."
+],
+ "correcta ": "c) Mostrar rutas y ubicaciones en tiempo real."
+},
+{
+ "numero ": 80,
+ "pregunta ": "¿En qué calle está el pabellón de baloncesto La Nevera del Ramiro de Maeztu?",
+ "respuestas ": [
+ "a) En la Calle de Vitruvio.",
+ "b) En la Calle de Espoz y Mina.",
+ "c) En la Calle de Pedro de Valdivia.",
+ "d) En la Calle de Zurbano."
+],
+ "correcta ": "a) En la Calle de Vitruvio."
+},
+{
+ "numero ": 81,
+ "pregunta ": "¿Qué deben hacer las empresas de reparto para cumplir con las Zonas de Bajas Emisiones según la Ley 7/2021?",
+ "respuestas ": [
+ "a) Utilizar vehículos eléctricos o de bajas emisiones y cumplir con los horarios de acceso establecidos.",
+ "b) Incrementar la capacidad de carga, empleando vehículos pesados, para acceder en cualquier horario.",
+ "c) Reducir la velocidad de entrega, para contaminar menos.",
+ "d) Utilizar vehículos eléctricos para acceder a cualquier hora del día."
+],
+ "correcta ": "a) Utilizar vehículos eléctricos o de bajas emisiones y cumplir con los horarios de acceso establecidos."
+},
+{
+ "numero ": 82,
+ "pregunta ": "¿Qué lugar de Madrid es famoso por su fuente dedicada a la diosa Cibeles?",
+ "respuestas ": [
+ "a) Plaza Mayor.",
+ "b) Puerta del Sol.",
+ "c) Plaza de España.",
+ "d) Plaza de Cibeles."
+],
+ "correcta ": "d) Plaza de Cibeles."
+},
+{
+ "numero ": 83,
+ "pregunta ": "El Museo Nacional de Ciencias Naturales (MNCN), ¿frente a qué plaza, aproximadamente, se puede encontrar?",
+ "respuestas ": [
+ "a) Frente a la plaza de Neptuno.",
+ "b) Frente a la fuente de la plaza de San Juan de la Cruz.",
+ "c) Frente a la plaza de la diosa Cibeles.",
+ "d) Frente a la plaza de España."
+],
+ "correcta ": "b) Frente a la fuente de la plaza de San Juan de la Cruz."
+},
+{
+ "numero ": 84,
+ "pregunta ": "¿Qué sanción conlleva tapar la matrícula para evitar las cámaras de la ZBE?",
+ "respuestas ": [
+ "a) Una multa leve de 20 euros.",
+ "b) Es una infracción muy grave con multa muy elevada y pérdida de puntos del permiso.",
+ "c) Ninguna, es legal si el coche está aparcado.",
+ "d) Solo un aviso por correo."
+],
+ "correcta ": "b) Es una infracción muy grave con multa muy elevada y pérdida de puntos del permiso."
+},
+{
+ "numero ": 85,
+ "pregunta ": "¿Qué pueblo madrileño es conocido por sus cuevas y bodegas subterráneas?",
+ "respuestas ": [
+ "a) Navalcarnero",
+ "b) Chinchón",
+ "c) Colmenar de Oreja",
+ "d) Rascafría"
+],
+ "correcta ": "c) Colmenar de Oreja"
+},
+{
+ "numero ": 86,
+ "pregunta ": "¿Qué función de GPS es útil para planificar un servicio con antelación?",
+ "respuestas ": [
+ "a) Navegación por voz.",
+ "b) Histórico de rutas.",
+ "c) Estimación del tráfico a una hora futura.",
+ "d) Modo nocturno."
+],
+ "correcta ": "c) Estimación del tráfico a una hora futura."
+}
 ]

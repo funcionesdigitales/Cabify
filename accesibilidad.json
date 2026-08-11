@@ -757,5 +757,203 @@
       "d) Mejora la eficiencia de los trayectos y el cliente está más satisfecho."
     ],
     "correcta ": "d) Mejora la eficiencia de los trayectos y el cliente está más satisfecho."
-  }
+  },
+  {
+ "numero ": 70,
+ "pregunta ": "Señala la respuesta incorrecta:",
+ "respuestas ": [
+ "a) La RCP incluye compresiones torácicas y respiración boca a boca.",
+ "b) La RCP puede ser necesaria en casos de paro cardíaco.",
+ "c) No se debe realizar RCP sin la presencia de un médico.",
+ "d) La RCP debe realizarse hasta que el pecho se eleve."
+],
+ "correcta ": "c) No se debe realizar RCP sin la presencia de un médico."
+},
+{
+ "numero ": 71,
+ "pregunta ": "¿Cómo puede un conductor mejorar la gestión de reclamaciones?",
+ "respuestas ": [
+ "a) Recibir formación en atención al cliente y manejo de quejas.",
+ "b) Ignorar las reclamaciones.",
+ "c) Culpar al cliente.",
+ "d) Desviar la responsabilidad a otro."
+],
+ "correcta ": "a) Recibir formación en atención al cliente y manejo de quejas."
+},
+{
+ "numero ": 72,
+ "pregunta ": "¿Cómo debemos actuar si un herido presenta una hemorragia arterial?",
+ "respuestas ": [
+ "a) Esperar a que la hemorragia se detenga sola.",
+ "b) Aplicar presión directa sobre la arteria afectada.",
+ "c) Darle algo de beber para calmarlo.",
+ "d) Mover al herido para que esté más cómodo."
+],
+ "correcta ": "b) Aplicar presión directa sobre la arteria afectada."
+},
+{
+ "numero ": 73,
+ "pregunta ": "¿Qué debemos hacer si un pasajero tiene una herida en el tórax y presenta dificultad respiratoria?",
+ "respuestas ": [
+ "a) Darle algo de beber para calmarlo.",
+ "b) Cubrir la herida con un apósito estéril y sellarlo por tres lados.",
+ "c) Colocarlo en posición lateral de seguridad.",
+ "d) Realizar maniobras de RCP."
+],
+ "correcta ": "b) Cubrir la herida con un apósito estéril y sellarlo por tres lados."
+},
+{
+ "numero ": 74,
+ "pregunta ": "¿Qué ventaja tiene el uso de innovaciones tecnológicas en el sector de VTC?",
+ "respuestas ": [
+ "a) Aumentar el tiempo de viaje.",
+ "b) Evitar el uso de mapas.",
+ "c) Mejorar la experiencia del cliente y optimizar el servicio.",
+ "d) Reducir la interacción con el cliente."
+],
+ "correcta ": "c) Mejorar la experiencia del cliente y optimizar el servicio."
+},
+{
+ "numero ": 75,
+ "pregunta ": "Un VTC debe permitir colocar primero a la persona con más dificultad.",
+ "respuestas ": [
+ "a) Sólo si lo pide el viajero.",
+ "b) Nunca, es al revés.",
+ "c) Sí.",
+ "d) No."
+],
+ "correcta ": "c) Sí."
+},
+{
+ "numero ": 76,
+ "pregunta ": "El conductor debe seguir instrucciones del usuario cuando sea posible.",
+ "respuestas ": [
+ "a) Sí.",
+ "b) Solo a veces.",
+ "c) No.",
+ "d) Nunca."
+],
+ "correcta ": "a) Sí."
+},
+{
+ "numero ": 77,
+ "pregunta ": "¿La accesibilidad favorece la independencia del usuario?",
+ "respuestas ": [
+ "a) Solo a PMR.",
+ "b) No.",
+ "c) Sí.",
+ "d) No influye."
+],
+ "correcta ": "c) Sí."
+},
+{
+ "numero ": 78,
+ "pregunta ": "Si un pasajero sufre una quemadura leve, ¿qué debe hacer el conductor VTC?",
+ "respuestas ": [
+ "a) Deberá aplicar algún remedio casero.",
+ "b) Aplicar agua fría.",
+ "c) Poner hielo sobre la zona quemada.",
+ "d) Cubrir con algo caliente."
+],
+ "correcta ": "b) Aplicar agua fría."
+},
+{
+ "numero ": 79,
+ "pregunta ": "En caso de percibir fuego en el vehículo, ¿qué deberá hacer el conductor como primer paso?",
+ "respuestas ": [
+ "a) Aumentar la velocidad para llegar cuanto antes al destino antes de que el fuego aumente.",
+ "b) Detener el vehículo y evacuar a los pasajeros buscando un lugar seguro en la vía.",
+ "c) Comentar con los pasajeros cuál puede ser la causa del fuego.",
+ "d) Detener el vehículo, tenga o no pasajeros, para intentar localizar el fuego e intentar apagarlo."
+],
+ "correcta ": "b) Detener el vehículo y evacuar a los pasajeros buscando un lugar seguro en la vía."
+},
+{
+ "numero ": 80,
+ "pregunta ": "¿Un servicio accesible mejora la imagen del sector VTC?",
+ "respuestas ": [
+ "a) No.",
+ "b) Solo en encuestas.",
+ "c) Sí.",
+ "d) No influye."
+],
+ "correcta ": "c) Sí."
+},
+{
+ "numero ": 81,
+ "pregunta ": "¿La accesibilidad incluye coherencia en todo el servicio?",
+ "respuestas ": [
+ "a) Sí.",
+ "b) No.",
+ "c) No importa.",
+ "d) Solo al inicio."
+],
+ "correcta ": "a) Sí."
+},
+{
+ "numero ": 82,
+ "pregunta ": "Las personas con movilidad reducida (PMR), ¿tienen excepciones en las ZBE?",
+ "respuestas ": [
+ "a) Solo si viajan en transporte público.",
+ "b) Sí, pero solo si su vehículo es eléctrico.",
+ "c) Sí, si su vehículo está registrado y tiene la tarjeta PMR.",
+ "d) No, deben cumplir las mismas normas."
+],
+ "correcta ": "c) Sí, si su vehículo está registrado y tiene la tarjeta PMR."
+},
+{
+ "numero ": 83,
+ "pregunta ": "En un accidente de tráfico, el conductor del vehículo VTC lo primero que hace es avisar. ¿Es correcto lo que hace, es decir, avisar en primer lugar?",
+ "respuestas ": [
+ "a) Sí, para ganar tiempo.",
+ "b) No, lo primero que deben hacer es acudir a socorrer a las víctimas y heridos si los hubiera.",
+ "c) No, el orden de actuación debe ser Proteger, Socorrer y, finalmente, Alertar.",
+ "d) No, el orden de actuación debe ser Proteger, Alertar y socorrer a los heridos."
+],
+ "correcta ": "d) No, el orden de actuación debe ser Proteger, Alertar y socorrer a los heridos."
+},
+{
+ "numero ": 84,
+ "pregunta ": "¿Qué tipo de señalización se recomienda dentro del vehículo para personas con discapacidad visual?",
+ "respuestas ": [
+ "a) Señalización en colores brillantes.",
+ "b) Señalización en braille y con alto contraste.",
+ "c) Señalización en texto grande.",
+ "d) Señalización auditiva."
+],
+ "correcta ": "b) Señalización en braille y con alto contraste."
+},
+{
+ "numero ": 85,
+ "pregunta ": "¿Cómo se identifica un atragantamiento grave en un pasajero?",
+ "respuestas ": [
+ "a) Porque tose fuerte.",
+ "b) Porque respira rápido.",
+ "c) Porque no puede hablar ni respirar, comienza a ahogarse.",
+ "d) Porque está un poco mareado."
+],
+ "correcta ": "c) Porque no puede hablar ni respirar, comienza a ahogarse."
+},
+{
+ "numero ": 86,
+ "pregunta ": "Según la legislación española, ¿qué grado de discapacidad debe tener una persona para ser considerada, a efectos legales, con discapacidad?",
+ "respuestas ": [
+ "a) Superior al 25%.",
+ "b) Superior al 30%.",
+ "c) Igual o superior al 33%.",
+ "d) Igual o superior al 50%."
+],
+ "correcta ": "c) Igual o superior al 33%."
+},
+{
+ "numero ": 87,
+ "pregunta ": "¿Cuál debe ser el comportamiento del conductor si durante un trayecto la mujer que transporta se pone de parto?",
+ "respuestas ": [
+ "a) Avisar al 112 y mantener lo más cómoda posible a la mujer, ofreciéndole agua, adaptando la temperatura a su requerimiento, etc., mientras llega la ayuda profesional.",
+ "b) Darle un analgésico para reducir el dolor en la medida de lo posible y mantenerla cómoda dentro del vehículo.",
+ "c) Aplicarle un paño frío en la frente y darle agua mientras se dirige a un centro de salud a toda velocidad.",
+ "d) Inmovilizar el vehículo y decirle a la pasajera que se baje del vehículo para esperar a la ayuda."
+],
+ "correcta ": "a) Avisar al 112 y mantener lo más cómoda posible a la mujer, ofreciéndole agua, adaptando la temperatura a su requerimiento, etc., mientras llega la ayuda profesional."
+}
 ]

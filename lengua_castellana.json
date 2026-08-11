@@ -680,5 +680,137 @@
       "d) a pesar de"
     ],
     "correcta ": "c) aunque"
-  }
+  },
+  {
+ "numero ": 63,
+ "pregunta ": "Antes de que comenzara una fuerte tormenta, una señora cerró todas las ventanas de su casa. De esta manera evitó que el viento y la lluvia entraran y dañaran los muebles y cortinas. ¿Por qué cerró las ventanas?",
+ "respuestas ": [
+ "a) Para que entrara aire fresco",
+ "b) Para ver mejor afuera",
+ "c) Para ventilar la casa",
+ "d) Para que no entrara la lluvia"
+],
+ "correcta ": "d) Para que no entrara la lluvia"
+},
+{
+ "numero ": 64,
+ "pregunta ": "¿Qué palabra no guarda relación con el resto?",
+ "respuestas ": [
+ "a) Barroco",
+ "b) Gótico",
+ "c) Ciclomotor",
+ "d) Neoclásico"
+],
+ "correcta ": "c) Ciclomotor"
+},
+{
+ "numero ": 65,
+ "pregunta ": "¿Cuál de las siguientes definiciones corresponde a camisa?",
+ "respuestas ": [
+ "a) Accesorio que se lleva en la cabeza.",
+ "b) Prenda de vestir que cubre el torso, abotonada por delante, y que generalmente tiene cuello y mangas.",
+ "c) Calzado que protege los pies.",
+ "d) Prenda de vestir que cubre las piernas."
+],
+ "correcta ": "b) Prenda de vestir que cubre el torso, abotonada por delante, y que generalmente tiene cuello y mangas."
+},
+{
+ "numero ": 66,
+ "pregunta ": "... es a océano como pez es a...",
+ "respuestas ": [
+ "a) Andar - Caminar",
+ "b) Sol - Nubes",
+ "c) Agua - Nadar",
+ "d) Niña - Niño"
+],
+ "correcta ": "c) Agua - Nadar"
+},
+{
+ "numero ": 67,
+ "pregunta ": "¿Qué palabra tiene un prefijo?",
+ "respuestas ": [
+ "a) Feliz",
+ "b) Irregular",
+ "c) Rosa",
+ "d) Libro"
+],
+ "correcta ": "b) Irregular"
+},
+{
+ "numero ": 68,
+ "pregunta ": "La palabra \"itinerante\" significa:",
+ "respuestas ": [
+ "a) Que permanece fijo",
+ "b) Que se desplaza de un lugar a otro",
+ "c) Que se repite",
+ "d) Que se limita"
+],
+ "correcta ": "b) Que se desplaza de un lugar a otro"
+},
+{
+ "numero ": 69,
+ "pregunta ": "El cliente avisó que el código promocional no se había...",
+ "respuestas ": [
+ "a) aplicó",
+ "b) aplicado",
+ "c) aplicando",
+ "d) aplica"
+],
+ "correcta ": "b) aplicado"
+},
+{
+ "numero ": 70,
+ "pregunta ": "¿Qué palabra no pertenece al mismo campo semántico?",
+ "respuestas ": [
+ "a) Martillo",
+ "b) Clavo",
+ "c) Destornillador",
+ "d) Camión"
+],
+ "correcta ": "d) Camión"
+},
+{
+ "numero ": 71,
+ "pregunta ": "¿Qué tipo de palabra es \"¡ay!\"?",
+ "respuestas ": [
+ "a) Interjección",
+ "b) Verbo",
+ "c) Conjunción",
+ "d) Adverbio"
+],
+ "correcta ": "a) Interjección"
+},
+{
+ "numero ": 72,
+ "pregunta ": "En \"La zona peatonal está delimitada\", \"delimitada\" significa:",
+ "respuestas ": [
+ "a) En construcción",
+ "b) Sin restricciones",
+ "c) Marcada con límites",
+ "d) Abierta al tráfico"
+],
+ "correcta ": "c) Marcada con límites"
+},
+{
+ "numero ": 73,
+ "pregunta ": "La biblioteca central implementó un sistema de préstamo digital que permite acceder a libros electrónicos desde cualquier lugar. Aunque la medida redujo las visitas, aumentó considerablemente el número total de préstamos y mejoró el acceso para personas con movilidad reducida. ¿Qué efecto tuvo el sistema digital?",
+ "respuestas ": [
+ "a) Disminuyó el acceso a la lectura",
+ "b) Redujo la variedad de libros",
+ "c) Aumentó el número total de préstamos",
+ "d) Eliminó la biblioteca física"
+],
+ "correcta ": "c) Aumentó el número total de préstamos"
+},
+{
+ "numero ": 74,
+ "pregunta ": "En \"La reseña fue ponderada\", \"ponderada\" significa:",
+ "respuestas ": [
+ "a) Breve y superficial",
+ "b) Equilibrada y justa",
+ "c) Áspera e injusta",
+ "d) Extensa y redundante"
+],
+ "correcta ": "b) Equilibrada y justa"
+}
 ]

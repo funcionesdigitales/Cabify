@@ -691,5 +691,137 @@
       "d) Solo los autónomos"
     ],
     "correcta ": "a) Todos los conductores de VTC"
-  }
+  },
+{
+ "numero ": 64,
+ "pregunta ": "¿Dónde se puede consultar la información oficial sobre las pruebas de conductor VTC?",
+ "respuestas ": [
+ "a) En la web del Ayuntamiento de Madrid.",
+ "b) En la web de la Comunidad de Madrid.",
+ "c) En la DGT.",
+ "d) En autoescuelas privadas."
+],
+ "correcta ": "b) En la web de la Comunidad de Madrid."
+},
+{
+ "numero ": 65,
+ "pregunta ": "¿Cuál es la antigüedad máxima permitida para que un vehículo VTC continúe en servicio desde su primera matriculación, como norma general?",
+ "respuestas ": [
+ "a) 5 años.",
+ "b) 7 años.",
+ "c) 10 años.",
+ "d) 15 años."
+],
+ "correcta ": "c) 10 años."
+},
+{
+ "numero ": 66,
+ "pregunta ": "¿Qué se considera trato correcto y cortés al cliente en la normativa?",
+ "respuestas ": [
+ "a) Hablar mucho.",
+ "b) Ser educado, respetuoso y profesional.",
+ "c) Estar callado todo el viaje.",
+ "d) Dar propina."
+],
+ "correcta ": "b) Ser educado, respetuoso y profesional."
+},
+{
+ "numero ": 67,
+ "pregunta ": "¿Quién expide el permiso de conductor VTC en la Comunidad de Madrid?",
+ "respuestas ": [
+ "a) El Ayuntamiento de Madrid.",
+ "b) La DGT.",
+ "c) La Dirección General de Transportes y Movilidad de la Comunidad de Madrid.",
+ "d) El Ministerio de Transportes."
+],
+ "correcta ": "c) La Dirección General de Transportes y Movilidad de la Comunidad de Madrid."
+},
+{
+ "numero ": 68,
+ "pregunta ": "En el marco de la contratación de un servicio de transporte de viajeros a través de arrendamiento con conductor, ¿qué es la pre-contratación, según lo define la propia normativa?",
+ "respuestas ": [
+ "a) Pago anticipado del servicio.",
+ "b) El establecimiento de un intervalo de tiempo mínimo entre la contratación y la prestación del servicio.",
+ "c) Registro del vehículo en una base de datos.",
+ "d) Firma de un contrato anual."
+],
+ "correcta ": "b) El establecimiento de un intervalo de tiempo mínimo entre la contratación y la prestación del servicio."
+},
+{
+ "numero ": 69,
+ "pregunta ": "¿Puede un VTC circular por carriles reservados para taxis?",
+ "respuestas ": [
+ "a) No, nunca.",
+ "b) Sí, si va sin pasajero.",
+ "c) Solo si el ayuntamiento lo autoriza expresamente.",
+ "d) Solo en caso de emergencia."
+],
+ "correcta ": "c) Solo si el ayuntamiento lo autoriza expresamente."
+},
+{
+ "numero ": 70,
+ "pregunta ": "¿Qué se considera una infracción en el servicio de transporte de viajeros en vehículo de arrendamiento con conductor?",
+ "respuestas ": [
+ "a) No imprimir la hoja de ruta.",
+ "b) No usar cinturón de seguridad.",
+ "c) No realizar la revisión técnica del vehículo.",
+ "d) Iniciar un servicio en un ámbito territorial distinto de aquel en que resulta obligatorio hacerlo."
+],
+ "correcta ": "d) Iniciar un servicio en un ámbito territorial distinto de aquel en que resulta obligatorio hacerlo."
+},
+{
+ "numero ": 71,
+ "pregunta ": "¿Qué se entiende por base de operaciones de un VTC?",
+ "respuestas ": [
+ "a) La casa del conductor.",
+ "b) El lugar donde se guardan los vehículos y se gestionan los servicios.",
+ "c) El domicilio fiscal de la empresa siempre.",
+ "d) El aeropuerto de Barajas."
+],
+ "correcta ": "b) El lugar donde se guardan los vehículos y se gestionan los servicios."
+},
+{
+ "numero ": 72,
+ "pregunta ": "¿Se puede transportar a un menor de edad en un VTC sin SRI, si la altura es suficiente?",
+ "respuestas ": [
+ "a) No, siempre necesitan SRI.",
+ "b) Sí, si supera esa altura, puede usar el cinturón de adulto.",
+ "c) Sólo en ciudad.",
+ "d) Solo si es mayor de 12 años."
+],
+ "correcta ": "b) Sí, si supera esa altura, puede usar el cinturón de adulto."
+},
+{
+ "numero ": 73,
+ "pregunta ": "La autorización VTC se otorga con carácter temporal o indefinido si se cumple el visado.",
+ "respuestas ": [
+ "a) Temporal.",
+ "b) Indefinido.",
+ "c) Depende del vehículo.",
+ "d) Depende del titular."
+],
+ "correcta ": "b) Indefinido."
+},
+{
+ "numero ": 74,
+ "pregunta ": "Según el Decreto 5/2004, de 10 de enero, de la Comunidad de Madrid, los conductores, entre otras pruebas, deben superar:",
+ "respuestas ": [
+ "a) La prueba de manejo de dispositivos digitales con mapa de navegación.",
+ "b) Una prueba física, ante el tribunal.",
+ "c) Una prueba de idiomas.",
+ "d) Una prueba de conocimientos mecánicos."
+],
+ "correcta ": "a) La prueba de manejo de dispositivos digitales con mapa de navegación."
+},
+{
+ "numero ": 75,
+ "pregunta ": "La normativa que regula la prestación del servicio en vehículos de alquiler con conductor, ¿permite la realización de servicios de arrendamiento fuera del ámbito territorial establecido sin restricciones?",
+ "respuestas ": [
+ "a) No.",
+ "b) Sí, lo permite sin poner ninguna restricción.",
+ "c) Sí, pero solo 90 días al año.",
+ "d) Sí, pero con restricciones."
+],
+ "correcta ": "d) Sí, pero con restricciones."
+}
 ]
