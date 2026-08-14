@@ -597,7 +597,7 @@
     "numero ": 55,
     "pregunta ": "Según el Decreto 101/2016, los distintivos identificativos deben colocarse:",
     "respuestas ": [
-      "a) [texto ilegible en el original]",
+      "a) En la parte superior izquierda de la luna delantera y en la puerta del conductor",
       "b) En la parte superior derecha de la luna delantera y en la parte inferior izquierda de la luna trasera del vehículo.",
       "c) En el techo del vehículo.",
       "d) En las puertas del vehículo."
@@ -758,17 +758,7 @@
 ],
  "correcta ": "c) Solo si el ayuntamiento lo autoriza expresamente."
 },
-{
- "numero ": 70,
- "pregunta ": "¿Qué se considera una infracción en el servicio de transporte de viajeros en vehículo de arrendamiento con conductor?",
- "respuestas ": [
- "a) No imprimir la hoja de ruta.",
- "b) No usar cinturón de seguridad.",
- "c) No realizar la revisión técnica del vehículo.",
- "d) Iniciar un servicio en un ámbito territorial distinto de aquel en que resulta obligatorio hacerlo."
-],
- "correcta ": "d) Iniciar un servicio en un ámbito territorial distinto de aquel en que resulta obligatorio hacerlo."
-},
+
 {
  "numero ": 71,
  "pregunta ": "¿Qué se entiende por base de operaciones de un VTC?",

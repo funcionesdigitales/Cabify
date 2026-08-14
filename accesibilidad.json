@@ -571,17 +571,7 @@
     ],
     "correcta ": "b) Inmovilizar la extremidad afectada sin intentar recolocar el hueso."
   },
-  {
-    "numero ": 53,
-    "pregunta ": "¿Por qué es importante que un conductor conozca las condiciones del tráfico en tiempo real?",
-    "respuestas ": [
-      "a) Para aumentar el tiempo de viaje.",
-      "b) Para evitar el uso de herramientas de navegación.",
-      "c) Para evitar retrasos y ofrecer un servicio eficiente.",
-      "d) Para reducir la interacción con el cliente."
-    ],
-    "correcta ": "c) Para evitar retrasos y ofrecer un servicio eficiente."
-  },
+ 
   {
     "numero ": 54,
     "pregunta ": "¿Cómo debemos actuar si un pasajero tiene una herida en el cuello y presenta una quemadura química?",
@@ -758,17 +748,8 @@
     ],
     "correcta ": "d) Mejora la eficiencia de los trayectos y el cliente está más satisfecho."
   },
-  {
- "numero ": 70,
- "pregunta ": "Señala la respuesta incorrecta:",
- "respuestas ": [
- "a) La RCP incluye compresiones torácicas y respiración boca a boca.",
- "b) La RCP puede ser necesaria en casos de paro cardíaco.",
- "c) No se debe realizar RCP sin la presencia de un médico.",
- "d) La RCP debe realizarse hasta que el pecho se eleve."
-],
- "correcta ": "c) No se debe realizar RCP sin la presencia de un médico."
-},
+  
+
 {
  "numero ": 71,
  "pregunta ": "¿Cómo puede un conductor mejorar la gestión de reclamaciones?",
@@ -780,17 +761,8 @@
 ],
  "correcta ": "a) Recibir formación en atención al cliente y manejo de quejas."
 },
-{
- "numero ": 72,
- "pregunta ": "¿Cómo debemos actuar si un herido presenta una hemorragia arterial?",
- "respuestas ": [
- "a) Esperar a que la hemorragia se detenga sola.",
- "b) Aplicar presión directa sobre la arteria afectada.",
- "c) Darle algo de beber para calmarlo.",
- "d) Mover al herido para que esté más cómodo."
-],
- "correcta ": "b) Aplicar presión directa sobre la arteria afectada."
-},
+
+
 {
  "numero ": 73,
  "pregunta ": "¿Qué debemos hacer si un pasajero tiene una herida en el tórax y presenta dificultad respiratoria?",
@@ -912,17 +884,7 @@
 ],
  "correcta ": "d) No, el orden de actuación debe ser Proteger, Alertar y socorrer a los heridos."
 },
-{
- "numero ": 84,
- "pregunta ": "¿Qué tipo de señalización se recomienda dentro del vehículo para personas con discapacidad visual?",
- "respuestas ": [
- "a) Señalización en colores brillantes.",
- "b) Señalización en braille y con alto contraste.",
- "c) Señalización en texto grande.",
- "d) Señalización auditiva."
-],
- "correcta ": "b) Señalización en braille y con alto contraste."
-},
+
 {
  "numero ": 85,
  "pregunta ": "¿Cómo se identifica un atragantamiento grave en un pasajero?",

@@ -549,17 +549,7 @@
 ],
 "correcta": "c) Verdadero."
 },
-{
-    "numero ": 51,
-    "pregunta ": "¿Qué debe hacer un conductor si su vehículo no tiene la etiqueta ambiental requerida para ingresar a una Zona de Bajas Emisiones (ZBE)?",
-    "respuestas ": [
-      "a) Desconectar el sistema de navegación.",
-      "b) Incrementar la velocidad para entrar rápidamente.",
-      "c) Buscar rutas alternativas fuera de la ZBE.",
-      "d) Encender las luces de emergencia."
-    ],
-    "correcta ": "c) Buscar rutas alternativas fuera de la ZBE."
-  },
+
   {
     "numero ": 52,
     "pregunta ": "¿Cómo configuras la pantalla dividida en el GPS?",
@@ -826,7 +816,7 @@
 },
 {
  "numero ": 76,
- "pregunta ": "[Texto ilegible] deberá utilizarse...",
+ "pregunta ": "Para alcanzar el destino del municipio de El Prado, ¿Que carretera principal debe utilizar el conducto VTC?",
  "respuestas ": [
  "a) La carretera M-605.",
  "b) La carretera de circunvalación M-50.",
